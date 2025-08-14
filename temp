@@ -1,0 +1,10 @@
+dont do extra filter unless ask to do so
+
+task 8 need to be no
+task 7 needs to be day
+task 6 needs to be >=45
+task 5 vehicle needs to be yes
+append all lines in task 1 with the [] removed into captions list
+append all lines in task2 with [] removed into captions list
+append task 3 (Damage = <None|Minor|Moderate|Severe>) with There is xxxxx damage in the vehicle into captions list
+append all lines in task 4 into cpations list only if its not NA
