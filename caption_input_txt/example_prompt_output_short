@@ -1,0 +1,109 @@
+tqvcd/FB_13_det02_0408px_vehicle_0p615.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing left
+[Subject] Dark gray vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Partial front and side view of white vehicle
+[Camera] Partial side view of dark gray vehicle
+[Info] White vehicle single-tone color
+[Info] Dark gray vehicle single-tone color
+[Info] Both vehicles appear to be SUVs
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] White vehicle facing left with single-tone color
+[Subject][Info] Dark gray vehicle facing right with single-tone color
+[Camera][Info] Partial front and side view of white SUV
+[Camera][Info] Partial side view of dark gray SUV
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and dark gray
+Type: SUV
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_17_det01_0869px_vehicle_0p832.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Chevrolet make
+[Info] Spark model
+[Info] Hatchback type
+[Info] 2010s–2020s year range
+[Info] Single-tone white color
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with moderate image quality
+[Camera][Info] Three-quarter front view of a white Chevrolet Spark hatchback
+[Info][Accessories] Chevrolet Spark hatchback with five-spoke alloy rims from 2010s–2020s
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: Spark
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_18_det02_0304px_vehicle_0p642.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing right
+[Subject] Gray vehicle rear facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Side view of white vehicle
+[Camera] Rear view of gray vehicle
+[Camera] Partial POV of both vehicles
+[Info] White vehicle make unknown
+[Info] White vehicle type sedan
+[Info] White vehicle color single-tone white
+[Info] Gray vehicle make unknown
+[Info] Gray vehicle type sedan
+[Info] Gray vehicle color single-tone gray
+[Accessories] White vehicle multi-spoke alloy rims
+[Accessories] Gray vehicle hybrid badge on trunk
+[Accessories] Gray vehicle multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] White sedan vehicle facing right with white color
+[Subject][Info] Gray sedan vehicle rear facing left with gray color
+[Camera][Accessories] Clear side view of white vehicle with multi-spoke rims
+[Camera][Accessories] Rear view of gray vehicle with hybrid badge and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes

@@ -1,0 +1,6275 @@
+tqvcd/FB_13_det02_0408px_vehicle_0p615.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing left
+[Subject] Dark gray vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Partial front and side view of white vehicle
+[Camera] Partial side view of dark gray vehicle
+[Info] White vehicle single-tone color
+[Info] Dark gray vehicle single-tone color
+[Info] Both vehicles appear to be SUVs
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] White vehicle facing left with single-tone color
+[Subject][Info] Dark gray vehicle facing right with single-tone color
+[Camera][Info] Partial front and side view of white SUV
+[Camera][Info] Partial side view of dark gray SUV
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and dark gray
+Type: SUV
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_17_det01_0869px_vehicle_0p832.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Chevrolet make
+[Info] Spark model
+[Info] Hatchback type
+[Info] 2010s–2020s year range
+[Info] Single-tone white color
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with moderate image quality
+[Camera][Info] Three-quarter front view of a white Chevrolet Spark hatchback
+[Info][Accessories] Chevrolet Spark hatchback with five-spoke alloy rims from 2010s–2020s
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: Spark
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_18_det02_0304px_vehicle_0p642.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing right
+[Subject] Gray vehicle rear facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Side view of white vehicle
+[Camera] Rear view of gray vehicle
+[Camera] Partial POV of both vehicles
+[Info] White vehicle make unknown
+[Info] White vehicle type sedan
+[Info] White vehicle color single-tone white
+[Info] Gray vehicle make unknown
+[Info] Gray vehicle type sedan
+[Info] Gray vehicle color single-tone gray
+[Accessories] White vehicle multi-spoke alloy rims
+[Accessories] Gray vehicle hybrid badge on trunk
+[Accessories] Gray vehicle multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] White sedan vehicle facing right with white color
+[Subject][Info] Gray sedan vehicle rear facing left with gray color
+[Camera][Accessories] Clear side view of white vehicle with multi-spoke rims
+[Camera][Accessories] Rear view of gray vehicle with hybrid badge and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_16_det04_0201px_vehicle_0p621.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Side view of vehicle
+[Camera] Partial POV from slightly above
+[Info] Silver color vehicle
+[Info] Sedan type vehicle
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear details
+[Camera][Info] Side view of a silver sedan vehicle partially visible
+[Subject][Camera] Partial POV from slightly above showing vehicle side
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_18_det01_0681px_vehicle_0p664.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Indoor lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Grandeur model
+[Info] Sedan type vehicle
+[Info] Hybrid special type
+[Info] Modern 2020s vehicle
+[Info] Single-tone dark gray color
+[Accessories] Roof antenna fin
+[Accessories] Dual exhaust outlets integrated in bumper
+Task 2
+[Subject][Camera] Single vehicle facing away from camera under indoor lighting
+[Camera][Info] Rear view of a high quality image showing Hyundai Grandeur sedan
+[Info][Accessories] Modern 2020s dark gray Hyundai Grandeur hybrid with roof antenna fin
+[Camera][Accessories] Ground-level rear view with dual exhaust outlets integrated in bumper
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Grandeur
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/FN_20_det01_0599px_vehicle_0p728.png:
+Task 1
+[Subject] Single vehicle parked stationary
+[Subject] Vehicle facing towards right side
+[Camera] Day lighting conditions
+[Camera] Good image quality with clear details
+[Camera] Three-quarter front view of vehicle
+[Camera] Ground-level point of view
+[Info] Make Kia
+[Info] Model Sportage
+[Info] SUV type vehicle
+[Info] Year 2010s–2020s
+[Info] Single-tone white color
+[Accessories] Multi-spoke alloy rims
+[Accessories] No roof rack or sunroof visible
+[Graphics] No stickers or ads visible
+Task 2
+[Subject][Camera] Single vehicle parked stationary in daylight with clear details
+[Camera][Info] Three-quarter front view of white Kia Sportage SUV
+[Info][Accessories] Kia Sportage SUV with multi-spoke alloy rims visible
+[Subject][Info] Vehicle facing towards right side is a white SUV
+[Camera][Accessories] Ground-level point of view showing clear alloy rims
+[Info][Camera] 2010s–2020s Kia SUV captured in good image quality
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sportage
+Color: White
+Type: SUV
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_10_det01_0614px_vehicle_0p751.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Partial POV from slightly above ground level
+[Info] Hyundai make
+[Info] Avante model
+[Info] Sedan type
+[Info] Modern vehicle from 2010s–2020s
+[Info] Single-tone gray color
+[Accessories] No visible roof rack or rear rack
+[Accessories] No visible antenna or fin
+[Accessories] No visible sunroof or roof box
+[Accessories] No visible spoilers
+[Graphics] No stickers or ads visible
+[Damage] No dents, scratches, holes, or paint peel visible
+[Condition] No mud, stains, rust, or aged appearance visible
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] High quality rear view image of a gray Hyundai Avante
+[Info][Accessories] Modern gray sedan without roof racks or spoilers
+[Damage][Condition] No visible damage or stains on the vehicle
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Avante
+Color: Gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_14_det01_0686px_vehicle_0p675.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Chevrolet make
+[Info] Small hatchback model
+[Info] White single-tone color
+[Info] Vehicle type is compact car
+[Info] Year range likely 2010s to 2020s
+[Damage] Severe front-end damage on hood and bumper
+[Damage] Broken and misaligned front bumper
+[Damage] Crumpled hood and damaged front left fender
+[Damage] Headlight on front left broken
+[Condition] No mud stains or rust visible
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Three-quarter front view of white Chevrolet compact car
+[Info][Damage] Chevrolet hatchback with severe front-end damage on hood and bumper
+[Damage][Condition] Broken front bumper and crumpled hood without mud or rust
+[Damage][Accessories] Damaged front left fender and broken headlight with five-spoke rims
+Task 3
+Damage = Severe
+Task 4
+Front-end shows severe damage with crumpled hood
+Severe damage visible on the front bumper and hood
+The front left fender and headlight are badly damaged
+Front bumper is broken and misaligned severely
+The hood is crumpled and the headlight is broken
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: NA (small hatchback)
+Color: White
+Type: Compact car
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_9_det02_0732px_vehicle_0p804.png:
+Task 1
+[Subject] Single vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Kia make vehicle
+[Info] K3 model
+[Info] Sedan type vehicle
+[Info] 2010s–2020s year range
+[Info] White single-tone color
+[Damage] Rear right bumper broken and cracked
+[Damage] Rear right panel misaligned and damaged
+[Accessories] Five-spoke alloy rims
+[Accessories] Rear spoiler present
+Task 2
+[Subject][Camera] Single vehicle facing left in daylight with clear image quality
+[Camera][Info] Rear three-quarter ground-level view of white Kia K3 sedan
+[Info][Damage] White Kia K3 sedan with broken rear right bumper and misaligned panel
+[Damage][Accessories] Rear right bumper damage near five-spoke alloy rims and rear spoiler
+Task 3
+Damage = Severe
+Task 4
+Rear right bumper is broken and cracked
+Damage is visible on the rear right bumper
+The rear right bumper shows clear damage
+Broken and cracked rear right bumper is evident
+The rear right bumper has severe damage
+Rear right panel is misaligned and damaged
+Damage is present on the rear right panel
+The rear right panel appears misaligned and damaged
+Misalignment and damage visible on rear right panel
+The rear right panel shows noticeable damage
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: K3
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_18_det03_0237px_vehicle_0p554.png:
+Task 1
+[Subject] Single occluded vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Partial side view of vehicle
+[Camera] Partial POV at ground level
+[Info] Vintage vehicle model
+[Info] Two-tone color scheme with orange and black
+[Info] Classic car type
+[Accessories] Spoke rim wheels
+Task 2
+[Subject][Camera] Single occluded vehicle facing left in daylight
+[Camera][Info] Partial side view of a vintage two-tone classic car
+[Info][Accessories] Vintage vehicle with spoke rim wheels and two-tone color
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Two-tone orange and black
+Type: Classic car
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_11_det02_0202px_vehicle_0p553.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing away from camera
+[Camera] Day lighting conditions
+[Camera] Medium quality image with slight noise
+[Camera] Rear view of vehicles
+[Camera] Partial POV
+[Info] White sedan vehicle
+[Info] Black vehicle with Hyundai logo
+[Info] Sedan type vehicles
+[Info] Vehicles from 2010s to 2020s
+[Info] White vehicle with single-tone color
+[Info] Black vehicle with single-tone color
+[Accessories] White vehicle has shark fin antenna
+[Accessories] Black vehicle has shark fin antenna
+[Accessories] Black vehicle has multi-spoke rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing away in daylight
+[Camera][Info] Rear view of white sedan and black Hyundai vehicle
+[Info][Accessories] White sedan has shark fin antenna and single-tone color
+[Info][Accessories] Black Hyundai vehicle has shark fin antenna and multi-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai (black vehicle)
+Model: NA
+Color: White and Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_2_det01_1595px_vehicle_0p840.png:
+Task 1
+[Subject] Single vehicle parked facing left
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Make Kia
+[Info] Model Carnival
+[Info] Type minivan
+[Info] Year 2020s
+[Info] Color white single-tone
+[Accessories] Roof box mounted on top
+[Accessories] Multi-spoke chrome rims
+Task 2
+[Subject][Camera] Single vehicle parked facing left in daylight
+[Camera][Info] High quality three-quarter front view of Kia minivan
+[Info][Accessories] White 2020s Kia Carnival with roof box and chrome rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Carnival
+Color: White
+Type: Minivan
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_3_det01_1031px_vehicle_0p848.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Indoor lighting product shot
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Genesis make
+[Info] GV70 model
+[Info] SUV type
+[Info] 2020s year range
+[Info] Single-tone dark color
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in indoor product lighting
+[Camera][Info] Three-quarter front view of a high quality Genesis SUV
+[Info][Accessories] Dark colored 2020s Genesis GV70 SUV with five-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Genesis
+Model: GV70
+Color: Dark single-tone
+Type: SUV
+Task 6
+Visibility = 80
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/FC_18_det01_0692px_vehicle_0p899.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Black color vehicle
+[Info] Sedan type
+[Info] Modern 2020s model
+[Damage] Dent on front left fender above wheel
+[Damage] Misalignment of front left fender panel
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Three-quarter front view of a black modern sedan
+[Info][Damage] Black sedan shows dent and misalignment on front left fender
+[Damage][Accessories] Front left fender dent near five-spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Dent on front left fender above wheel
+Damage present on front left fender panel
+Front left fender shows visible dent and misalignment
+Visible damage to front left fender near wheel
+Front left fender has noticeable dent and panel misalignment
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_11_det01_0659px_vehicle_0p655.png:
+Task 1
+[Subject] Single vehicle stationary facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] Single-tone black color
+[Damage] Scratches and paint scuff on left rear fender
+[Damage] Minor dent on left rear fender
+[Accessories] Shark fin antenna on roof
+[Accessories] Multi-spoke alloy rims
+[Graphics] Small stickers on rear left window
+Task 2
+[Subject][Camera] Single vehicle stationary facing right in daylight
+[Camera][Info] Rear three-quarter ground-level view of black Hyundai Sonata
+[Info][Damage] Black Hyundai Sonata sedan with scratches and minor dent on left rear fender
+[Damage][Accessories] Scratches and paint scuff near multi-spoke alloy rims and shark fin antenna
+[Accessories][Graphics] Shark fin antenna and small stickers on rear left window
+Task 3
+Damage = Moderate
+Task 4
+Scratches and paint scuff on left rear fender
+Damage present on the left rear fender
+Left rear fender appears scratched and scuffed
+Visible scratches and paint damage on left rear fender
+Left rear fender has noticeable paint scuff and minor dent
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_15_det01_0738px_vehicle_0p735.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Chevrolet make
+[Info] Hatchback model
+[Info] White single-tone color
+[Info] 2010s–2020s year range
+[Damage] Severe front-end damage with crumpled hood
+[Damage] Broken front bumper and misaligned front panel
+[Damage] Damage visible on front left fender
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of white Chevrolet hatchback
+[Info][Damage] White Chevrolet hatchback with severe front-end damage
+[Damage][Accessories] Crumpled hood and broken bumper with five-spoke rims
+[Camera][Damage] Ground-level view showing misaligned front panel and fender damage
+Task 3
+Damage = Severe
+Task 4
+Front-end shows severe crumpled damage
+Severe damage visible on the front end
+The front end is heavily crumpled and damaged
+Front bumper and hood are severely damaged
+Severe misalignment and damage on front left fender
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: Hatchback
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_16_det01_0625px_vehicle_0p598.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Silver color vehicle
+[Info] SUV type vehicle
+[Info] Make Mahindra
+[Damage] Dent on front hood
+[Damage] Misalignment of front bumper and hood
+[Damage] Broken front bumper corner
+[Damage] Cracked front grille area
+[Condition] Mud on front tire and lower body
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Three-quarter front view of silver Mahindra SUV with multi-spoke rims
+[Damage][Condition] Dented front hood with misaligned bumper and mud on tire
+[Damage][Info] Broken front bumper corner and cracked grille on silver SUV
+Task 3
+Damage = Moderate
+Task 4
+Dent on front hood is clearly visible
+Front hood shows noticeable dent damage
+Dent damage is present on the front hood
+Front bumper and hood are misaligned
+Misalignment visible between front bumper and hood
+Front bumper corner is broken and damaged
+Broken corner damage on front bumper is evident
+Cracks are visible on the front grille area
+Front grille area shows clear cracking damage
+Cracked grille damage is noticeable on front
+Task 5
+Vehicle: Yes
+Make: Mahindra
+Model: NA
+Color: Silver
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_19_det01_0708px_vehicle_0p680.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] 2010s–2020s model year range
+[Damage] Scratches and paint peel on front bumper lower right
+[Damage] Minor misalignment on front bumper lower right
+[Condition] Mud on front left tire
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of white Hyundai sedan
+[Info][Damage] White Hyundai sedan with scratches and paint peel on bumper
+[Damage][Condition] Scratches and mud present on front bumper and tire
+[Accessories][Camera] Multi-spoke alloy rims visible in high quality daylight image
+Task 3
+Damage = Minor
+Task 4
+Front bumper shows visible scratches and paint peel
+Damage present on the lower right front bumper
+Front bumper appears scratched and paint is peeling
+Visible damage to the front bumper lower right area
+Front bumper has noticeable scratches and paint damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_19_det01_0714px_vehicle_0p693.png:
+Task 1
+[Subject] Single vehicle parked facing left
+[Camera] Day lighting conditions
+[Camera] Medium quality image with clear details
+[Camera] Rear three-quarter view of vehicle
+[Camera] Partial POV from ground level
+[Info] Hyundai make vehicle
+[Info] Kona model
+[Info] SUV type vehicle
+[Info] 2020s model year
+[Info] Single-tone white color
+[Accessories] Rear spoiler present
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle parked facing left in daylight
+[Camera][Info] Rear three-quarter view of a white Hyundai Kona SUV
+[Info][Accessories] 2020s white Hyundai Kona SUV with rear spoiler and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Kona
+Color: White
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_4_det01_1037px_vehicle_0p879.png:
+Task 1
+[Subject] Single vehicle parked stationary
+[Subject] Vehicle facing towards right side
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Model appears to be Hyundai Casper
+[Info] SUV type vehicle
+[Info] Modern 2020s design
+[Info] Single-tone dark gray color
+[Accessories] Steel rims without hubcaps
+[Accessories] No roof rack or antenna visible
+[Graphics] Small blue sticker on front door panel
+[Others] No visible cargo or rear bed occupant
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of a dark gray Hyundai SUV
+[Info][Accessories] Modern 2020s Hyundai Casper SUV with steel rims
+[Accessories][Graphics] Steel rims without hubcaps and small blue sticker on door panel
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Casper
+Color: Dark gray
+Type: SUV
+Task 6
+Visibility = 85
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_5_det01_0587px_vehicle_0p886.png:
+Task 1
+[Subject] Single vehicle facing towards camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front view of vehicle
+[Camera] Partial POV showing front and right side
+[Info] Kia make vehicle
+[Info] Small hatchback type
+[Info] White single-tone color
+[Info] Model likely Kia Picanto or similar
+[Info] Year range 2010s to 2020s
+Task 2
+[Subject][Camera] Single vehicle facing towards camera in daylight
+[Camera][Info] Front view of a white Kia hatchback with high image quality
+[Camera][Info] Partial POV showing front and right side of Kia Picanto or similar
+[Info][Camera] White single-tone Kia vehicle from 2010s to 2020s in clear daylight
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Picanto (likely)
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_16_det02_0468px_vehicle_0p519.png:
+Task 1
+[Subject] Multiple vehicles visible
+[Subject] Vehicles facing towards camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front view of vehicles
+[Camera] Partial POV showing front sections
+[Info] White vehicle on left
+[Info] Silver vehicle on right
+[Info] Both vehicles appear to be sedans
+[Info] Vehicles from 2010s to 2020s era
+[Damage] Dent on silver vehicle hood
+[Damage] Misalignment of silver vehicle hood edges
+[Accessories] No visible roof racks or spoilers
+[Graphics] No visible stickers or ads
+Task 2
+[Subject][Camera] Multiple vehicles facing towards camera in daylight
+[Camera][Info] High quality front view of white and silver sedans
+[Info][Damage] Silver sedan from 2010s with dent and hood misalignment
+[Damage][Accessories] Dented silver vehicle hood without roof racks or spoilers
+Task 3
+Damage = Minor
+Task 4
+Dent visible on the silver vehicle hood
+The silver vehicle hood shows a noticeable dent
+There is a dent on the hood of the silver vehicle
+The hood of the silver vehicle is dented
+Visible dent present on the silver vehicle hood
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White and Silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RC_12_det01_0689px_vehicle_0p902.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV
+[Info] Mercedes-Benz make
+[Info] Sedan type vehicle
+[Info] Red single-tone color
+[Damage] Dents on rear bumper and left rear fender
+[Damage] Scratches on left rear fender and bumper
+[Damage] Misalignment on rear bumper right side
+[Condition] No visible mud stains or rust
+[Accessories] Single exhaust pipe visible
+[Graphics] No stickers or ads visible
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of red Mercedes-Benz sedan with partial POV
+[Damage][Condition] Dents and scratches visible on rear bumper and left fender
+[Damage][Info] Misalignment present on rear bumper right side of sedan
+[Accessories][Info] Single exhaust pipe visible on red Mercedes-Benz sedan
+Task 3
+Damage = Moderate
+Task 4
+Dents and scratches are visible on the rear bumper and left fender
+The rear bumper and left rear fender show noticeable dents and scratches
+Visible dents and scratches affect the rear bumper and left fender
+The rear bumper right side is misaligned and damaged
+Misalignment is clearly visible on the right side of the rear bumper
+Task 5
+Vehicle: Yes
+Make: Mercedes-Benz
+Model: NA
+Color: Red
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_1_det01_0701px_vehicle_0p706.png:
+Task 1
+[Subject] Single vehicle facing towards camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front view of vehicle
+[Camera] Partial POV showing front half of vehicle
+[Info] Make Kia
+[Info] White color single-tone paint
+[Info] SUV type vehicle
+[Info] Model not clearly identifiable
+[Damage] Dent on front hood near center
+[Damage] Paint peel on front hood near dent
+[Damage] Misalignment between hood and front grille
+[Accessories] No visible roof rack or antenna
+[Accessories] Black grille with horizontal chrome accents
+Task 2
+[Subject][Camera] Single vehicle facing towards camera in daylight
+[Camera][Info] Front view of a high quality image showing Kia SUV
+[Info][Damage] White Kia SUV with dent and paint peel on front hood
+[Damage][Accessories] Dent and paint peel near misaligned hood and grille
+Task 3
+Damage = Moderate
+Task 4
+Dent on front hood near center
+Damage present on the front hood near center
+Front hood shows visible dent near center
+Visible dent on the front hood near center
+Front hood has noticeable dent near center
+Paint peel on front hood near dent
+Damage present as paint peel near dent on front hood
+Front hood shows paint peel damage near dent
+Visible paint peel on front hood near dent
+Front hood has noticeable paint peel near dent
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_16_det03_0335px_vehicle_0p479.png:
+Task 1
+[Subject] Multiple vehicles visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Front three-quarter view
+[Camera] Partial POV
+[Info] White vehicle color
+[Info] Black vehicle color
+[Info] Sedan type vehicles
+[Info] Modern vehicles from 2010s–2020s
+[Accessories] No visible roof racks or spoilers
+[Accessories] No visible antennas or sunroofs
+[Graphics] No visible stickers or ads
+Task 2
+[Subject][Camera] Multiple vehicles facing right in daylight conditions
+[Camera][Info] Clear image shows front three-quarter view of sedans
+[Info][Accessories] White and black sedans without roof racks or spoilers
+[Info][Subject] Modern sedans from 2010s–2020s partially visible in image
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RN_1_det01_0699px_vehicle_0p643.png:
+Task 1
+[Subject] Single vehicle visible from rear right side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter rear view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model likely Elantra
+[Info] Year range 2010s to 2020s
+[Accessories] Rear spoiler on trunk
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image
+[Camera][Info] Three-quarter rear view of white Hyundai sedan with spoiler
+[Info][Accessories] Hyundai sedan likely Elantra with five-spoke alloy rims and rear spoiler
+Task 3
+Damage = Minor
+Task 4
+Minor scratches visible on the rear bumper
+Rear bumper shows minor scratches and scuffs
+Small scratches present on the rear bumper area
+Rear bumper has slight scuff marks
+Minor damage visible on the rear bumper
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_17_det01_0456px_vehicle_0p544.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing towards camera
+[Camera] Day lighting conditions
+[Camera] Medium quality image with good clarity
+[Camera] Front and three-quarter views visible
+[Camera] Partial point of view
+[Info] Kia make visible on front vehicle
+[Info] Silver color vehicle in front
+[Info] White color vehicle partially visible
+[Info] Sedan type vehicles
+[Accessories] No visible roof racks or spoilers
+[Damage] No visible dents or scratches
+[Condition] No visible mud or stains
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in day lighting
+[Camera][Info] Front and three-quarter views of silver Kia sedan
+[Info][Accessories] Silver Kia sedan without roof racks or spoilers
+[Subject][Info] Multiple sedans facing towards camera with good clarity
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Silver and white
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_20_det01_1233px_vehicle_0p771.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] White color vehicle with single-tone paint
+[Info] Kia make
+[Info] Small hatchback or compact car type
+[Info] Modern vehicle likely 2010s or later
+[Accessories] Monoblock alloy rims
+[Damage] Minor scratches on front fender and door panel
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] High quality three-quarter front view of white Kia hatchback
+[Info][Accessories] White Kia compact car with monoblock alloy rims
+[Damage][Info] Minor scratches visible on front fender and door panel
+Task 3
+Damage = Minor
+Task 4
+Minor scratches visible on front fender and door panel
+Front fender and door panel show minor scratches
+There are minor scratches on the front fender and door panel
+Minor scratches appear on the front fender and door panel
+The front fender and door panel have minor scratches
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Compact car / hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_13_det01_0769px_vehicle_0p888.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Avante model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] Single-tone white color
+[Damage] Minor dent and scratch on right rear fender
+[Accessories] Multi-spoke alloy rims
+[Accessories] Small rear spoiler integrated into trunk lid
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a white Hyundai Avante sedan
+[Info][Damage] 2020s Hyundai Avante sedan with minor dent on rear fender
+[Damage][Accessories] Minor dent and scratch near multi-spoke alloy rims
+[Accessories][Info] White sedan with small rear spoiler and alloy rims
+Task 3
+Damage = Minor
+Task 4
+Minor dent and scratch visible on right rear fender
+Right rear fender shows minor dent and scratch
+Minor damage present on the right rear fender
+Right rear fender has small dent and scratch
+Visible minor dent and scratch on the right rear fender
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Avante
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_6_det01_0717px_vehicle_0p664.png:
+Task 1
+[Subject] Single vehicle facing towards camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front view of vehicle
+[Camera] Partial POV showing front half of vehicle
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Modern 2010s–2020s model
+[Damage] Minor scratches on front bumper lower left corner
+[Accessories] No visible roof rack or rear rack
+[Accessories] No visible antenna or fin
+[Accessories] Alloy rims with spoke design
+[Graphics] No stickers or ads visible
+[Others] No cargo or tow visible
+Task 2
+[Subject][Camera] Single vehicle facing towards camera in daylight
+[Camera][Info] Front view of a white Hyundai sedan with high image quality
+[Info][Damage] Modern white Hyundai sedan with minor scratches on front bumper
+[Damage][Accessories] Minor scratches on front bumper near alloy spoke rims
+[Accessories][Others] Alloy spoke rims on a white sedan with no cargo visible
+Task 3
+Damage = Minor
+Task 4
+Minor scratches visible on the front bumper lower left corner
+Front bumper shows minor scratches near the left side
+Minor scratches present on the lower left front bumper
+The front bumper has small scratches on the left corner
+Visible minor scratches on the front bumper lower left area
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_20_det01_0733px_vehicle_0p674.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Model Kona
+[Info] SUV type vehicle
+[Info] Modern 2020s year range
+[Info] Two-tone color white with black accents
+[Accessories] Five-spoke alloy rims
+[Accessories] Rear roof spoiler
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a white Hyundai Kona SUV
+[Info][Accessories] Modern two-tone Hyundai Kona SUV with five-spoke alloy rims
+[Accessories][Camera] Rear roof spoiler visible in clear ground-level image
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Kona
+Color: White with black accents
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_6_det03_0308px_vehicle_0p624.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle front left corner visible
+[Subject] Black vehicle side view visible
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] White vehicle front three-quarter view
+[Camera] Black vehicle side view
+[Info] White vehicle front grille and headlight visible
+[Info] Black vehicle four-door sedan type
+[Info] Black vehicle side mirror visible
+[Info] Black vehicle black color single-tone
+[Info] White vehicle white color single-tone
+[Accessories] Black vehicle chrome side molding
+[Accessories] Black vehicle alloy wheels visible
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Camera][Info] White vehicle front three-quarter view with clear details
+[Info][Accessories] Black vehicle side view with chrome side molding
+[Info][Subject] White vehicle front grille and headlight visible near black sedan
+[Accessories][Info] Black vehicle alloy wheels visible on black sedan
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_14_det01_0744px_vehicle_0p785.png:
+Task 1
+[Subject] Single vehicle rear view
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Rear view angle
+[Camera] Partial POV
+[Info] Chevrolet make
+[Info] Cruze LT model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] Single-tone black color
+[Damage] Severe dents on rear bumper
+[Damage] Misalignment of trunk lid
+[Damage] Broken rear left tail light
+[Condition] No mud or stains visible
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in clear daylight
+[Camera][Info] Rear view of black Chevrolet Cruze LT sedan
+[Info][Damage] Black sedan with severe dents and misaligned trunk
+[Damage][Condition] Broken tail light with no mud or stains visible
+[Accessories][Info] Five-spoke alloy rims on 2010s Chevrolet Cruze
+Task 3
+Damage = Severe
+Task 4
+Severe dents are visible on the rear bumper
+The rear bumper shows significant damage and dents
+There is a large dent and misalignment on the trunk lid
+The rear left tail light is broken and cracked
+The trunk lid is misaligned due to impact damage
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: Cruze LT
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_2_det01_0660px_vehicle_0p769.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Partial POV from ground level
+[Info] Kia make vehicle
+[Info] Sportage model
+[Info] SUV type vehicle
+[Info] 2010s–2020s year range
+[Info] Single-tone white color
+[Accessories] Multi-spoke alloy rims
+[Accessories] Rear roof spoiler
+Task 2
+[Subject][Camera] Single vehicle facing right in day lighting conditions
+[Camera][Info] Rear three-quarter view of a high quality Kia Sportage SUV
+[Info][Accessories] White Kia Sportage SUV with multi-spoke alloy rims and rear spoiler
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sportage
+Color: White
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_2_det01_0782px_vehicle_0p800.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Hyundai make
+[Info] SUV type vehicle
+[Info] Modern 2010s–2020s model
+[Info] Single-tone dark blue color
+[Damage] Dent on front right fender near headlight
+[Damage] Misalignment between fender and bumper on front right
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of a dark blue Hyundai SUV
+[Info][Damage] Modern Hyundai SUV with dent and misalignment on front right fender
+[Damage][Accessories] Dented front right fender near headlight with multi-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Dent visible on front right fender near headlight
+Front right fender shows a noticeable dent
+There is a dent on the front right fender area
+The front right fender near the headlight is dented
+A dent is present on the front right fender near the headlight
+Misalignment between front bumper and fender on right side
+Front bumper and fender on right side appear misaligned
+There is misalignment between the front bumper and right fender
+The front right fender and bumper show misalignment
+Misalignment visible on front right bumper and fender
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Dark blue
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_3_det01_0771px_vehicle_0p712.png:
+Task 1
+[Subject] Single vehicle facing left
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] White color vehicle with single-tone paint
+[Info] SUV type vehicle
+[Damage] Dents on front passenger door and lower side panel
+[Damage] Scratches on front bumper and side panel
+[Damage] Misalignment on lower side panel near running board
+[Accessories] Roof box mounted on roof rack
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing left in daylight with high image quality
+[Camera][Info] Three-quarter front view of white SUV with ground-level POV
+[Info][Damage] White SUV with dents and scratches on passenger door and bumper
+[Damage][Accessories] Dents and misalignment near running board with roof box mounted
+[Accessories][Info] Multi-spoke alloy rims on white single-tone SUV
+Task 3
+Damage = Moderate
+Task 4
+Dents are visible on the front passenger door and lower side panel
+The front bumper and side panel have noticeable scratches
+There is misalignment on the lower side panel near the running board
+Visible dents and scratches affect the passenger side of the vehicle
+The lower side panel shows signs of damage and misalignment
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_7_det01_0621px_vehicle_0p630.png:
+Task 1
+[Subject] Single vehicle partially visible from front right side
+[Subject] Vehicle facing towards right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model appears to be Hyundai Elantra
+[Info] Year range 2010s to 2020s
+[Accessories] Alloy rims with spoke design
+[Damage] Minor misalignment on front right fender near wheel arch
+[Damage] Small scratches on front bumper lower edge
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high image quality
+[Camera][Info] Three-quarter front view of white Hyundai sedan with spoke rims
+[Info][Damage] Hyundai Elantra sedan shows minor misalignment and scratches on front right
+[Accessories][Damage] Alloy spoke rims visible with minor scratches on front bumper
+Task 3
+Damage = Minor
+Task 4
+Minor misalignment visible on front right fender near wheel arch
+Small scratches present on lower edge of front bumper
+Front right fender shows slight misalignment damage
+Lower front bumper has minor scratches visible
+Front bumper edge displays small scratch marks
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_18_det02_0365px_vehicle_0p504.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right direction
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some blur
+[Camera] Front and three-quarter views visible
+[Camera] Partial point of view
+[Info] Kia vehicle visible in background
+[Info] Gray color vehicle in background
+[Info] Silver color vehicle in foreground
+[Info] Vehicle types appear to be SUVs or crossovers
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight with moderate quality
+[Camera][Info] Front and three-quarter views of gray and silver SUVs
+[Info][Subject] Kia gray vehicle and silver vehicle facing right direction partially visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Gray and Silver
+Type: SUV or crossover
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_4_det01_0741px_vehicle_0p834.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Kia make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] 2020s model year range
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight conditions
+[Camera][Info] Three-quarter front view of a white Kia sedan
+[Camera][Accessories] Clear image showing multi-spoke alloy rims
+[Info][Accessories] White Kia sedan with multi-spoke alloy rims
+[Subject][Camera] Partial ground-level POV of single vehicle facing right
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_7_det02_0483px_vehicle_0p584.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view of vehicles
+[Camera] Partial point of view
+[Info] White color vehicles with single-tone paint
+[Info] Sedan type vehicles
+[Info] Modern vehicles from 2010s–2020s
+[Accessories] Alloy rims visible on wheels
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] High quality three-quarter front view of white sedans
+[Info][Accessories] Modern white sedans with alloy rims visible on wheels
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_18_det01_0746px_vehicle_0p638.png:
+Task 1
+[Subject] Single vehicle partially visible from front left side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some blur
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Sedan type
+[Info] Silver single-tone color
+[Info] 2010s–2020s model year
+[Damage] Front left bumper broken and cracked
+[Damage] Front left fender misaligned and damaged
+[Damage] Hood slightly misaligned
+[Accessories] Multi-spoke alloy rims
+[Graphics] Sticker on front left door panel
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with partial POV
+[Camera][Info] Three-quarter front view of silver Hyundai sedan from 2010s–2020s
+[Damage][Info] Front left bumper broken and cracked on silver Hyundai sedan
+[Damage][Accessories] Front left fender misaligned near multi-spoke alloy rims
+[Damage][Info] Hood slightly misaligned on 2010s–2020s Hyundai sedan
+Task 3
+Damage = Moderate
+Task 4
+Front left bumper is broken and cracked
+Damage visible on the front left bumper
+The front left bumper shows clear damage
+Broken and cracked front left bumper observed
+Front left bumper has significant damage
+Front left fender is misaligned and damaged
+Damage present on the front left fender
+The front left fender appears misaligned
+Misalignment and damage visible on front left fender
+Front left fender shows noticeable damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_3_det02_0212px_vehicle_0p554.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of white sedan facing right
+[Subject] Side of silver vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Rear view of white sedan
+[Camera] Side view of silver vehicle
+[Camera] Partial point of view
+[Info] White Hyundai sedan
+[Info] Silver sedan
+[Info] Vehicles with single-tone colors
+[Accessories] Rear spoiler on white Hyundai sedan
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] Rear of white Hyundai sedan facing right with spoiler
+[Subject][Camera] Side of silver sedan facing left with partial view
+[Info][Accessories] White Hyundai sedan has rear spoiler
+[Camera][Info] Rear view of white Hyundai and side view of silver sedan
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White and Silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RC_15_det01_0796px_vehicle_0p853.png:
+Task 1
+[Subject] Single vehicle partially visible from rear left side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Make Kia
+[Info] Model Ray
+[Info] Type hatchback
+[Info] Year 2010s–2020s
+[Info] Color single-tone light beige or cream
+[Damage] Dent on left rear fender above wheel
+[Damage] Scratches on left rear fender and bumper
+[Damage] Misalignment between rear bumper and fender
+[Condition] No mud stains or rust visible
+[Accessories] Five-spoke alloy rims
+[Graphics] No stickers or ads visible
+[Others] No cargo or occupants visible
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear left side in daylight
+[Camera][Info] High quality rear three-quarter view of Kia Ray hatchback
+[Info][Damage] Light beige Kia Ray hatchback with dent and scratches on rear fender
+[Damage][Condition] Dent and scratches on rear fender with no rust or stains
+[Damage][Accessories] Rear fender damage near five-spoke alloy rims
+[Camera][Subject] Partial POV showing vehicle facing right direction with visible damage
+Task 3
+Damage = Moderate
+Task 4
+Dent visible on left rear fender above wheel
+Left rear fender shows noticeable dent damage
+Dent damage present on rear left fender panel
+Scratches visible on left rear fender and bumper
+Scratches and misalignment seen on rear bumper and fender
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Ray
+Color: Light beige or cream
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_3_det01_0709px_vehicle_0p644.png:
+Task 1
+[Subject] Single vehicle visible from rear right side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with slight dust on vehicle
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model appears to be Elantra
+[Info] Year likely 2010s to 2020s
+[Damage] Minor scratches on right rear door panel
+[Accessories] Rear spoiler on trunk
+[Accessories] Black alloy rims
+Task 2
+[Subject][Camera] Single vehicle visible from rear right side in daylight
+[Camera][Info] Rear three-quarter view of white Hyundai sedan with black rims
+[Info][Damage] White Hyundai Elantra sedan with minor scratches on right door panel
+[Accessories][Info] Rear spoiler on white Hyundai sedan with black alloy rims
+Task 3
+Damage = Minor
+Task 4
+Minor scratches visible on right rear door panel
+Right rear door panel shows minor scratches
+Scratches present on the right rear door panel
+Right door panel has visible minor scratches
+Minor scratches noticeable on right rear door panel
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = No
+
+tqvcd/RC_16_det01_0584px_vehicle_0p749.png:
+Task 1
+[Subject] Single vehicle visible from rear left side
+[Subject] Vehicle facing away from camera
+[Camera] Daytime lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view of vehicle
+[Camera] Partial POV from ground level
+[Info] Hyundai make vehicle
+[Info] Tucson model
+[Info] SUV type vehicle
+[Info] Modern 2020s model year
+[Info] Single-tone silver color
+[Accessories] Alloy rims with multiple spokes
+[Accessories] Rear roof spoiler present
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daytime lighting
+[Camera][Info] Rear three-quarter view of a silver Hyundai Tucson SUV
+[Info][Accessories] Modern 2020s Hyundai Tucson SUV with alloy multi-spoke rims
+[Accessories][Camera] Rear roof spoiler visible in clear daytime image
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Tucson
+Color: Silver
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_5_det01_0676px_vehicle_0p708.png:
+Task 1
+[Subject] Single vehicle partially visible facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Partial ground-level POV
+[Info] Kia make vehicle
+[Info] Small hatchback or compact car type
+[Info] Light blue single-tone color
+[Damage] Dent on front right fender above wheel
+[Damage] Scratches on front right fender near dent
+[Damage] Misalignment between front bumper and fender
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Three-quarter front view of a light blue Kia compact car
+[Damage][Info] Dent and scratches on front right fender of Kia
+[Damage][Accessories] Misalignment between bumper and fender with five-spoke rims
+Task 3
+Damage = Moderate
+Task 4
+Dent visible on front right fender of the vehicle
+Front right fender shows noticeable dent damage
+Scratches present near the dent on front right fender
+Misalignment between front bumper and fender is evident
+Front bumper and fender do not align properly
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Light blue
+Type: Compact car
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_9_det01_0724px_vehicle_0p774.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Make Genesis
+[Info] Model G70
+[Info] Sedan type vehicle
+[Info] 2020s model year
+[Info] Single-tone black color
+[Accessories] Five-spoke alloy rims
+[Accessories] Red brake calipers
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] High quality three-quarter front view of Genesis G70
+[Camera][Accessories] Ground-level view showing five-spoke alloy rims and red brake calipers
+[Info][Accessories] Black Genesis G70 sedan with five-spoke rims and red calipers
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Genesis
+Model: G70
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_6_det01_0753px_vehicle_0p883.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front three-quarter view
+[Camera] Partial POV showing front and side
+[Info] Make Genesis
+[Info] Sedan type vehicle
+[Info] Modern 2020s model
+[Info] Dark blue single-tone color
+[Accessories] Chrome mesh grille
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Front three-quarter view of a dark blue Genesis sedan
+[Info][Accessories] Modern 2020s Genesis sedan with chrome mesh grille and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Genesis
+Model: NA
+Color: Dark blue
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_19_det02_0883px_vehicle_0p490.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] SUV type vehicle
+[Info] White single-tone color
+[Damage] Dent and misalignment on front left fender
+[Damage] Scratches on front bumper and fender
+[Damage] Broken or cracked area near front left fender
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of white Hyundai SUV at ground level
+[Info][Damage] White Hyundai SUV shows dent and misalignment on front left fender
+[Damage][Accessories] Scratches and broken area near front left fender with multi-spoke rims
+Task 3
+Damage = Moderate
+Task 4
+Dent and misalignment visible on front left fender
+Front left fender shows dent and misalignment damage
+Scratches present on front bumper and fender area
+Broken or cracked section near front left fender noticeable
+Front bumper and fender have visible scratches and damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_17_det01_0720px_vehicle_0p807.png:
+Task 1
+[Subject] Single vehicle partially visible from rear right side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Make unknown
+[Info] Model unknown
+[Info] SUV type vehicle
+[Info] Modern 2020s vehicle
+[Info] Single-tone black color
+[Damage] Dent on right rear fender above wheel
+[Accessories] Rear roof antenna fin
+[Accessories] Multi-spoke alloy rims
+[Accessories] Rear roof spoiler
+[Graphics] No visible stickers or ads
+[Others] No cargo or occupants visible
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear right side in daylight
+[Camera][Info] High quality rear three-quarter view of a black SUV
+[Info][Damage] Modern 2020s black SUV with dent on right rear fender
+[Accessories][Damage] Multi-spoke alloy rims and rear roof spoiler with dent above wheel
+[Subject][Accessories] Vehicle facing right with rear roof antenna fin and spoiler
+Task 3
+Damage = Minor
+Task 4
+Dent on right rear fender above wheel
+Right rear fender shows a visible dent above the wheel
+There is a dent located on the right rear fender above the wheel
+The right rear fender above the wheel has a noticeable dent
+A dent is present on the right rear fender above the wheel
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_5_det01_0702px_vehicle_0p686.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Sedan type
+[Info] White single-tone color
+[Info] 2010s–2020s model year
+[Accessories] Rear spoiler on trunk
+[Accessories] Dark alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Rear three-quarter ground-level view of a white Hyundai sedan
+[Info][Accessories] White 2010s–2020s Hyundai sedan with rear spoiler and dark alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_18_det01_0789px_vehicle_0p730.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image with good color accuracy
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Avante model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] White single-tone color
+[Damage] Scratches and dents on rear right bumper and panel
+[Damage] Misalignment visible on rear right panel and bumper
+[Accessories] Rear spoiler integrated into trunk lid
+[Accessories] Alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Clear rear three-quarter view of white Hyundai Avante sedan
+[Info][Damage] 2020s white Hyundai Avante sedan with scratches and dents on rear right
+[Damage][Accessories] Scratches and dents on rear right bumper near alloy rims
+[Accessories][Info] Rear spoiler integrated on trunk lid of white Hyundai sedan
+Task 3
+Damage = Moderate
+Task 4
+Scratches and dents are visible on the rear right bumper and panel
+Damage is noticeable on the rear right side of the vehicle
+The rear right bumper and panel show clear signs of dents and scratches
+Visible misalignment and damage on the rear right panel and bumper
+The rear right side of the car has moderate damage with scratches and dents
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Avante
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_4_det01_0767px_vehicle_0p713.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear and side
+[Info] Make Kia
+[Info] Model Carnival
+[Info] Type minivan
+[Info] Year 2010s–2020s
+[Info] Color white single-tone
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Clear rear view of white Kia Carnival minivan
+[Info][Accessories] Kia Carnival minivan with spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Carnival
+Color: White
+Type: Minivan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_7_det01_0647px_vehicle_0p702.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Kia make vehicle
+[Info] Model appears to be Kia Picanto
+[Info] Hatchback type vehicle
+[Info] Modern 2010s–2020s year range
+[Info] Single-tone white color
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of a white Kia Picanto hatchback
+[Camera][Accessories] Partial ground-level POV showing five-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Picanto
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_6_det01_0262px_vehicle_0p614.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of a dark gray vehicle facing left
+[Subject] Side of a white vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of dark gray vehicle
+[Camera] Side view of white vehicle
+[Info] Dark gray Hyundai vehicle
+[Info] Model Sonata
+[Info] Sedan type vehicle
+[Info] White vehicle type SUV
+[Info] Dark gray vehicle color single-tone
+[Info] White vehicle color single-tone
+[Accessories] Dark gray vehicle multi-spoke alloy rims
+[Accessories] White vehicle multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] Rear of dark gray Hyundai Sonata sedan facing left
+[Subject][Info] Side of white SUV vehicle facing right
+[Camera][Info] High quality image shows rear and side views
+[Info][Accessories] Dark gray Hyundai Sonata sedan with multi-spoke rims
+[Info][Accessories] White SUV vehicle with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RC_19_det01_0604px_vehicle_0p667.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear half of vehicle
+[Info] Make Kia
+[Info] Model K3
+[Info] Sedan type vehicle
+[Info] 2010s–2020s year range
+[Info] Single-tone black color
+[Damage] Dent on trunk lid above license plate area
+[Accessories] Roof antenna fin
+[Accessories] Rear parking sensors
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a black Kia K3 sedan from 2010s–2020s
+[Info][Damage] Kia K3 sedan has dent on trunk lid above license plate
+[Damage][Accessories] Dent on trunk lid near roof antenna fin and parking sensors
+Task 3
+Damage = Minor
+Task 4
+Dent visible on trunk lid above license plate area
+Trunk lid shows dent above license plate
+Visible dent on rear trunk lid near license plate
+Dent present on trunk lid above license plate area
+Trunk lid has noticeable dent above license plate
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: K3
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_20_det01_0708px_vehicle_0p763.png:
+Task 1
+[Subject] Single vehicle facing front
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Front view of vehicle
+[Camera] Partial POV showing front and side
+[Info] Hyundai make vehicle
+[Info] Sedan type vehicle
+[Info] Red single-tone color
+[Info] 2010s–2020s model year
+[Damage] Severe dents on front hood
+[Damage] Misalignment of front hood and grille
+[Damage] Broken front grille
+[Damage] Cracked front bumper
+[Condition] No visible mud stains or rust
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing front in daylight with moderate image quality
+[Camera][Info] Front view of red Hyundai sedan from 2010s–2020s model year
+[Damage][Info] Severe dents and misalignment on front hood of red sedan
+[Damage][Accessories] Broken grille and cracked bumper with alloy spoke rims
+Task 3
+Damage = Severe
+Task 4
+Severe dents on front hood are clearly visible
+The front hood shows significant dents and damage
+There is severe damage and dents on the front hood
+The front grille is broken and the bumper is cracked
+The front bumper and grille exhibit visible cracks and breaks
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Red
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_19_det02_0219px_vehicle_0p610.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Black vehicle rear left side visible
+[Subject] Silver vehicle side visible
+[Camera] Day lighting conditions
+[Camera] Partial rear view of black vehicle
+[Camera] Partial side view of silver vehicle
+[Info] Black vehicle with red tail light
+[Info] Silver vehicle with alloy wheels
+[Info] Both vehicles appear sedan type
+[Info] Vehicles from 2010s to 2020s era
+[Info] Black vehicle single-tone color
+[Info] Silver vehicle single-tone color
+[Accessories] Silver vehicle with multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Camera][Info] Partial rear view of black sedan with red tail light
+[Camera][Info] Partial side view of silver sedan with alloy wheels
+[Info][Accessories] Silver sedan with multi-spoke alloy rims visible
+[Info][Subject] Black and silver vehicles appear to be sedans from 2010s to 2020s
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black and Silver
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_11_det02_0684px_vehicle_0p650.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High clarity and color accuracy
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Santa Fe model
+[Info] SUV type
+[Info] 2010s–2020s year range
+[Info] Black single-tone color
+[Damage] Scratches and dents on left rear fender and bumper
+[Damage] Misalignment on left rear fender and bumper
+[Accessories] Rear roof spoiler
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a black Hyundai Santa Fe SUV
+[Info][Damage] Black Hyundai Santa Fe SUV with scratches and dents on left rear fender
+[Damage][Accessories] Scratches and dents on left rear fender with rear roof spoiler
+[Accessories][Camera] Multi-spoke alloy rims visible in ground-level rear three-quarter view
+Task 3
+Damage = Moderate
+Task 4
+Scratches and dents are visible on the left rear fender and bumper
+The left rear fender and bumper show noticeable misalignment and damage
+Damage is apparent on the left rear fender with scratches and dents
+The rear bumper and left fender have visible scratches and dents
+Misalignment and dents are present on the left rear fender and bumper
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Santa Fe
+Color: Black
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_8_det01_0722px_vehicle_0p711.png:
+Task 1
+[Subject] Single vehicle visible
+[Subject] Vehicle facing right
+[Camera] Day lighting
+[Camera] High quality image
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] White single-tone color
+[Damage] Dent on right front door panel
+[Damage] Scratches on right front door panel
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of white Hyundai Sonata sedan
+[Info][Damage] 2020s white Hyundai sedan with dent and scratches on door panel
+[Damage][Accessories] Dent and scratches near multi-spoke alloy rims on right door panel
+Task 3
+Damage = Minor
+Task 4
+Dent and scratches visible on right front door panel
+Right front door panel shows dent and scratches
+Damage present on right front door panel
+Right front door panel appears dented and scratched
+Visible dent and scratches on right front door panel
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_8_det02_0437px_vehicle_0p630.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Good image quality with clear details
+[Camera] Three-quarter front view of vehicles
+[Camera] Partial point of view
+[Info] Blue SUV type vehicle
+[Info] White sedan type vehicle
+[Info] Vehicles from 2000s to 2020s
+[Info] Blue and white single-tone colors
+[Accessories] Black roof rack on blue SUV
+[Accessories] Black side mirror on blue SUV
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] Three-quarter front view of blue SUV and white sedan
+[Info][Accessories] Blue SUV with black roof rack and side mirror visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Blue and white
+Type: SUV and sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RN_6_det02_0736px_vehicle_0p660.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] Single-tone gray color
+[Accessories] Shark fin antenna on roof
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a gray Hyundai Sonata sedan
+[Camera][Accessories] Ground-level view shows shark fin antenna and spoke rims
+[Info][Accessories] 2010s Hyundai Sonata sedan with alloy spoke rims and antenna
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Gray
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_12_det01_0738px_vehicle_0p867.png:
+Task 1
+[Subject] Single vehicle stationary
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view
+[Camera] Partial POV showing rear and side
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] Single-tone silver color
+[Damage] Severe damage on rear bumper right side
+[Damage] Scratches and dents on rear bumper
+[Damage] Rear bumper misalignment and deformation
+[Condition] No mud or stains visible
+[Accessories] Alloy rims with multiple spokes
+[Accessories] Rear antenna fin present
+[Graphics] No stickers or ads visible
+[Others] No cargo or occupants visible
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Rear three-quarter view of silver Hyundai Sonata sedan
+[Damage][Condition] Severe damage with scratches and dents on rear bumper
+[Damage][Accessories] Rear bumper misalignment near alloy rims and antenna fin
+Task 3
+Damage = Severe
+Task 4
+Severe damage on the rear bumper right side
+The rear bumper on the right side is severely damaged
+There is significant damage to the right rear bumper
+The right side of the rear bumper shows severe deformation
+The rear bumper is badly damaged on the right side
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_1_det01_0698px_vehicle_0p620.png:
+Task 1
+[Subject] Single vehicle facing front-right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and left side
+[Info] Make Kia
+[Info] Type SUV
+[Info] Color white single-tone
+[Damage] Scratches and dents on front bumper and left fender
+[Damage] Misalignment on front bumper and fender
+[Damage] Broken lower front bumper section
+[Condition] No mud stains or rust visible
+[Accessories] No visible roof rack or antenna
+[Graphics] No stickers or ads visible
+Task 2
+[Subject][Camera] Single vehicle facing front-right in daylight
+[Camera][Info] High quality three-quarter front view of white Kia SUV
+[Info][Damage] White Kia SUV with scratches and dents on front bumper
+[Damage][Condition] Scratches and dents on front bumper with no rust visible
+[Damage][Accessories] Broken lower front bumper section with no roof rack present
+Task 3
+Damage = Moderate
+Task 4
+Front bumper shows visible scratches and dents
+Damage present on the front bumper and left fender
+Front bumper and fender appear scratched and dented
+Visible damage to the front bumper and fender area
+Front bumper has noticeable misalignment and broken section
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_3_det01_0644px_vehicle_0p901.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Front side view
+[Camera] Partial POV
+[Info] White color vehicle
+[Info] Sedan type vehicle
+[Info] 2010s–2020s model year
+[Damage] Dent on front left fender
+[Damage] Misalignment near front left headlight
+[Damage] Scratches on front left fender
+[Accessories] Multi-spoke alloy rim
+Task 2
+[Subject][Camera] Single vehicle partially visible facing left in daylight
+[Camera][Info] Clear front side view of white sedan from 2010s–2020s
+[Damage][Info] Dent and scratches on front left fender of white sedan
+[Damage][Accessories] Misalignment near front left headlight with multi-spoke alloy rim
+Task 3
+Damage = Moderate
+Task 4
+Dent visible on front left fender
+Front left fender shows noticeable dent
+Scratches present on front left fender
+Misalignment near front left headlight visible
+Front left headlight area appears misaligned
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_1_det01_0711px_vehicle_0p696.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Indoor lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Kia make vehicle
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Modern 2010s–2020s model year
+[Damage] Dent on rear right bumper
+[Damage] Scratches on rear right bumper
+[Condition] Dirt stains on rear bumper
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in indoor lighting
+[Camera][Info] Rear three-quarter view of a white Kia sedan
+[Info][Damage] Modern Kia sedan with dent and scratches on rear bumper
+[Damage][Condition] Rear right bumper dented and scratched with dirt stains
+[Accessories][Camera] Multi-spoke alloy rims visible in high quality ground-level image
+Task 3
+Damage = Moderate
+Task 4
+Rear right bumper shows visible dent and scratches
+Damage present on the rear right bumper area
+Rear right bumper appears dented and scratched
+Visible dent and scratches on the rear right bumper
+Rear right bumper has noticeable damage and dirt stains
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/FB_2_det01_0797px_vehicle_0p884.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] White color single-tone
+[Info] Sedan type vehicle
+[Damage] Scratches on front fender and near headlight
+[Damage] Misalignment between fender and bumper
+[Damage] Cracked headlight cover
+[Accessories] Multi-spoke alloy rims
+[Graphics] Blue text sticker on front door
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Clear three-quarter front view of white sedan with alloy rims
+[Damage][Info] Scratches and misalignment on front fender of white sedan
+[Damage][Accessories] Cracked headlight cover near multi-spoke alloy rims
+[Graphics][Info] Blue text sticker on white sedan front door
+Task 3
+Damage = Moderate
+Task 4
+Scratches are visible on the front fender and near the headlight
+The front fender shows noticeable scratches and misalignment
+There is a crack on the headlight cover near the front fender
+The headlight cover appears cracked and damaged
+Misalignment is visible between the front bumper and fender
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_13_det01_0663px_vehicle_0p656.png:
+Task 1
+[Subject] Single vehicle moving away from camera
+[Camera] Daytime lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Grandeur model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] White single-tone color
+[Damage] Rear bumper broken and cracked
+[Damage] Rear bumper misalignment
+[Condition] Dirt stains on rear bumper and side panel
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle moving away from camera in daytime lighting
+[Camera][Info] Rear view of a white Hyundai Grandeur sedan
+[Info][Damage] 2020s Hyundai Grandeur sedan with broken rear bumper
+[Damage][Condition] Rear bumper cracked and misaligned with dirt stains
+[Condition][Accessories] Dirt stains on side panel near multi-spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Grandeur
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_7_det01_0699px_vehicle_0p643.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model appears to be Elantra
+[Info] Year range 2010s to 2020s
+[Accessories] Rear spoiler on trunk
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Rear three-quarter ground-level view of white Hyundai sedan
+[Info][Accessories] Hyundai Elantra sedan with rear spoiler and five-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Rear bumper shows minor scratches and scuffs
+Minor scratches visible on the rear bumper
+Rear bumper has small scuff marks
+There are minor scratches on the rear bumper
+Rear bumper displays slight surface damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_10_det01_0742px_vehicle_0p739.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Avante model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] White single-tone color
+[Damage] Damage on right rear fender with paint peel and dents
+[Damage] Damage on right front door with dents and paint peel
+[Accessories] Alloy rims
+[Accessories] Rear integrated spoiler
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter partial view of white Hyundai Avante sedan
+[Info][Damage] 2020s white Hyundai Avante sedan with damage on right rear fender
+[Damage][Accessories] Damage on right front door near alloy rims and rear spoiler
+Task 3
+Damage = Moderate
+Task 4
+Damage present on the right rear fender
+Right rear fender shows visible damage
+Damage visible on the right front door
+Right front door has noticeable dents and paint peel
+Damage present on the right front door
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Avante
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_1_det02_0280px_vehicle_0p527.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle rear facing camera
+[Subject] Black vehicle front facing camera partially occluded
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of white vehicle
+[Camera] Front three-quarter view of black vehicle
+[Camera] Partial point of view
+[Info] White vehicle make Kia
+[Info] White vehicle type sedan
+[Info] White vehicle single-tone white color
+[Info] Black vehicle make unknown
+[Info] Black vehicle color black
+[Accessories] White vehicle rear spoiler
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight with clear quality
+[Subject][Info] White Kia sedan rear facing camera with single-tone white color
+[Camera][Info] Rear view of white Kia sedan and front three-quarter black vehicle
+[Info][Accessories] White Kia sedan with rear spoiler and black vehicle partially occluded
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_9_det01_0797px_vehicle_0p862.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Ioniq model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] Single-tone white color
+[Damage] Dent on right front fender
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] High quality three-quarter front view of white Hyundai Ioniq
+[Info][Damage] White Hyundai Ioniq sedan with dent on right front fender
+[Damage][Accessories] Dent on right front fender near five-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Dent on right front fender is visible
+Damage present on the right front fender
+Right front fender shows a noticeable dent
+Visible dent on the right front fender
+Right front fender has a small dent
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Ioniq
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_4_det01_0620px_vehicle_0p634.png:
+Task 1
+[Subject] Single vehicle facing front-right
+[Camera] Indoor lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Kia make
+[Info] Hatchback model
+[Info] Small car type
+[Info] 2010s–2020s year range
+[Info] Single-tone light blue color
+[Damage] Front bumper broken and scratched on right side
+[Damage] Misalignment on front bumper right side
+[Accessories] Alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Single vehicle facing front-right in indoor lighting
+[Camera][Info] Three-quarter front view of a light blue Kia hatchback
+[Info][Damage] Kia hatchback with broken and scratched front bumper
+[Damage][Accessories] Front bumper damage near alloy rims with multiple spokes
+Task 3
+Damage = Moderate
+Task 4
+Front bumper shows visible damage on the right side
+Damage present on the right side of the front bumper
+Front bumper appears broken and scratched on the right
+Visible damage to the front bumper right side
+Front bumper has noticeable misalignment and scratches on right side
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Hatchback
+Color: Light blue
+Type: Small car
+Task 6
+Visibility = 60
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/RN_8_det01_0660px_vehicle_0p769.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter rear view
+[Camera] Partial POV showing most of the vehicle
+[Info] Make Kia
+[Info] Model Sportage
+[Info] SUV type vehicle
+[Info] 2010s–2020s model year
+[Info] Single-tone white color
+[Accessories] Multi-spoke alloy rims
+[Accessories] Rear roof spoiler
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter rear view of a white Kia Sportage SUV
+[Info][Accessories] 2010s–2020s Kia Sportage SUV with multi-spoke alloy rims and rear spoiler
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sportage
+Color: White
+Type: SUV
+Task 6
+Visibility = 85
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_10_det01_0677px_vehicle_0p741.png:
+Task 1
+[Subject] Single vehicle facing front-right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] Silver single-tone color
+[Info] 2010s–2020s model year range
+[Accessories] Alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Single vehicle facing front-right in daylight
+[Camera][Info] Three-quarter front view of a silver Hyundai sedan
+[Camera][Accessories] High quality image showing alloy rims with multiple spokes
+[Info][Accessories] Silver Hyundai sedan with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_20_det01_0607px_vehicle_0p691.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear end only
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] White single-tone color
+[Damage] Dent on rear bumper center
+[Damage] Multiple scratches on rear bumper
+[Damage] Misalignment of rear bumper panel
+[Condition] Minor stains on rear bumper
+[Accessories] No visible roof rack or spoiler
+[Graphics] No stickers or ads visible
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of white Hyundai Sonata sedan
+[Info][Damage] White sedan shows dent and scratches on rear bumper
+[Damage][Condition] Rear bumper dent with minor stains and misalignment
+[Info][Accessories] Hyundai Sonata sedan without roof rack or spoiler
+Task 3
+Damage = Moderate
+Task 4
+Dent on rear bumper center is clearly visible
+Rear bumper center has a noticeable dent
+There is a dent located on the rear bumper center
+The rear bumper shows a dent in the middle area
+A dent is present on the center of the rear bumper
+Multiple scratches are visible on the rear bumper
+The rear bumper has several scratches
+Scratches can be seen on the rear bumper surface
+There are scratches present on the rear bumper
+The rear bumper displays multiple scratch marks
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_9_det01_0709px_vehicle_0p644.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model likely Elantra (based on shape and badge)
+[Info] Year range 2010s to 2020s
+[Damage] Minor scratches on right rear door panel
+[Accessories] Rear spoiler on trunk
+[Accessories] Black multi-spoke rims
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] Rear three-quarter view of white Hyundai sedan
+[Camera][Accessories] Ground-level view shows rear spoiler and black rims
+[Info][Damage] White Hyundai sedan with minor scratches on right rear door
+[Info][Accessories] 2010s to 2020s Hyundai sedan with rear spoiler and multi-spoke rims
+Task 3
+Damage = Minor
+Task 4
+Minor scratches visible on right rear door panel
+Right rear door panel shows minor scratches
+Scratches present on the right rear door panel
+Minor scratches noticeable on right rear door panel
+Right rear door panel has small scratches
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra (likely)
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_5_det01_0682px_vehicle_0p585.png:
+Task 1
+[Subject] Single vehicle facing towards camera
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some blur
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Kia make vehicle
+[Info] SUV type vehicle
+[Info] Black single-tone color
+[Info] 2000s–2010s model year range
+[Damage] Large dent on front hood
+[Damage] Scratches on front hood and bumper
+[Damage] Misalignment of front hood and grille
+[Damage] Broken or cracked front grille
+[Condition] No visible mud or stains
+[Accessories] Standard rims
+[Graphics] No visible stickers or ads
+[Others] No cargo or distinctive features
+Task 2
+[Subject][Camera] Single vehicle facing towards camera in daylight
+[Camera][Info] Three-quarter front view of a black Kia SUV
+[Info][Damage] Black Kia SUV with large dent on front hood
+[Damage][Condition] Front hood dent with scratches and no mud visible
+[Damage][Accessories] Misaligned front hood and broken grille with standard rims
+Task 3
+Damage = Moderate
+Task 4
+Large dent visible on the front hood
+Damage present on the front hood of the vehicle
+Front hood shows noticeable dent and scratches
+Visible damage to the front hood and grille area
+Front hood and grille appear damaged and misaligned
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Black
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_10_det02_0382px_vehicle_0p517.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White pickup truck facing left
+[Subject] Silver car front facing right
+[Camera] Day lighting conditions
+[Camera] Partial front view of silver car
+[Camera] Partial side view of white pickup truck
+[Info] White pickup truck color single-tone
+[Info] Silver car color single-tone
+[Info] Pickup truck type
+[Info] Car type sedan or hatchback
+[Accessories] Pickup truck has black side mirror
+[Accessories] Silver car has windshield wipers visible
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] White pickup truck facing left with single-tone color
+[Subject][Info] Silver car front facing right with single-tone color
+[Camera][Accessories] Partial front view of silver car with windshield wipers
+[Camera][Accessories] Partial side view of white pickup truck with black side mirror
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Silver
+Type: Pickup and Sedan or Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_13_det03_0347px_vehicle_0p515.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of white vehicle facing right
+[Subject] Side of black vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Partial rear and side view
+[Camera] Ground-level POV
+[Info] White vehicle make Hyundai
+[Info] White vehicle model Grandeur
+[Info] White vehicle type sedan
+[Info] White vehicle color single-tone white
+[Info] Black vehicle color single-tone black
+[Info] Black vehicle type SUV
+[Accessories] White vehicle multi-spoke alloy rims
+[Accessories] Black vehicle multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight from ground-level POV
+[Subject][Info] Rear of white Hyundai Grandeur sedan facing right
+[Subject][Info] Side of black SUV facing left with black color
+[Info][Accessories] White Hyundai Grandeur sedan with multi-spoke alloy rims
+[Info][Accessories] Black SUV with multi-spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper of white vehicle has visible cracks
+Damage present on the rear bumper of white vehicle
+Rear bumper of white vehicle appears cracked and broken
+Visible damage to the rear bumper of white vehicle
+Rear bumper of white vehicle has noticeable cracks and paint peel
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Grandeur
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_14_det02_0619px_vehicle_0p453.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Grandeur model
+[Info] Sedan type
+[Info] 2020s year range
+[Info] White single-tone color
+[Damage] Rear bumper broken and cracked on right side
+[Damage] Rear trunk misaligned and damaged
+[Condition] Dirt stains on rear and side panels
+[Accessories] Dual exhaust outlets
+[Accessories] Alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of white Hyundai Grandeur sedan with alloy rims
+[Info][Damage] 2020s Hyundai Grandeur sedan with broken rear bumper and misaligned trunk
+[Damage][Condition] Rear bumper damage with dirt stains on rear and side panels
+[Accessories][Info] White sedan with dual exhaust outlets and alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Trunk lid is misaligned and damaged
+Damage visible on the trunk lid
+Trunk lid shows signs of damage
+Misalignment present on the trunk lid
+Trunk lid damage is clearly visible
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Grandeur
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_9_det02_0212px_vehicle_0p554.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of white sedan facing right
+[Subject] Side of silver vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Rear view of white sedan
+[Camera] Side view of silver vehicle
+[Camera] Partial point of view
+[Info] White Hyundai sedan
+[Info] Silver color vehicle
+[Info] Sedan type vehicles
+[Info] Modern 2010s–2020s model
+[Accessories] Rear spoiler on white sedan
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] Rear of white Hyundai sedan facing right
+[Subject][Camera] Side of silver vehicle facing left with partial view
+[Camera][Info] Rear view of white sedan with rear spoiler
+[Info][Accessories] White Hyundai sedan with rear spoiler visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_5_det02_0255px_vehicle_0p504.png:
+Task 1
+[Subject] Multiple vehicles visible
+[Subject] Front vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some blur
+[Camera] Front three-quarter view of front vehicle
+[Camera] Partial POV showing front vehicle front and side
+[Info] Front vehicle silver color
+[Info] Front vehicle sedan type
+[Damage] Severe damage on front vehicle front left fender
+[Damage] Front left fender dented and crumpled
+[Damage] Front left headlight broken or cracked
+[Damage] Front bumper misaligned and damaged
+[Condition] No visible mud stains or rust
+[Accessories] No visible roof rack or spoilers
+[Graphics] No visible stickers or ads
+[Others] No cargo or distinctive features
+Task 2
+[Subject][Camera] Multiple vehicles visible in day lighting conditions
+[Camera][Info] Front three-quarter view of silver sedan facing right
+[Damage][Condition] Severe damage on front left fender with broken headlight
+[Damage][Info] Front bumper misaligned and damaged on silver sedan
+Task 3
+Damage = Severe
+Task 4
+Severe damage on front vehicle front left fender
+Front left fender is heavily dented and crumpled
+The front left headlight is broken or cracked
+Front bumper is misaligned and shows damage
+Damage is extensive on the front left side of the vehicle
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RC_2_det01_0674px_vehicle_0p794.png:
+Task 1
+[Subject] Single vehicle partially visible from rear left side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Make Kia
+[Info] Model Ray
+[Info] Type hatchback
+[Info] Year 2010s–2020s
+[Info] Color single-tone white
+[Damage] Dent on left rear fender near fuel cap
+[Damage] Scratches on left rear fender and bumper
+[Damage] Misalignment between rear bumper and fender
+[Condition] No visible mud stains or rust
+[Accessories] Alloy rims with 5 spokes
+[Graphics] Small oval sticker near fuel cap
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear left side in daylight
+[Camera][Info] Rear three-quarter view of white Kia Ray hatchback
+[Damage][Condition] Dent and scratches on left rear fender with no rust
+[Damage][Info] Misalignment between rear bumper and fender on 2010s Kia
+[Accessories][Info] Alloy rims with 5 spokes on white Kia Ray
+Task 3
+Damage = Moderate
+Task 4
+Dent on left rear fender near fuel cap
+Left rear fender shows a noticeable dent near fuel cap
+There is a dent visible on the left rear fender by the fuel cap
+The left rear fender near the fuel cap has a dent
+A dent is present on the left rear fender close to the fuel cap
+Scratches on left rear fender and bumper
+Scratches are visible on the left rear fender and bumper
+The left rear fender and bumper have multiple scratches
+Scratches appear on the left rear fender and bumper area
+There are scratches on the left rear fender and bumper
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Ray
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_6_det01_0276px_vehicle_0p678.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicles
+[Camera] Partial point of view
+[Info] White color vehicle in foreground
+[Info] Silver or light gray color vehicle behind
+[Info] Sedan type vehicles
+[Info] Modern vehicles from 2000s to 2020s
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing away in daylight
+[Camera][Info] Rear view of white and silver sedans in daylight
+[Info][Subject] White and silver sedans facing away partially visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and silver
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_15_det01_0635px_vehicle_0p631.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with slight blur
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Chevrolet make
+[Info] Small hatchback model
+[Info] Hatchback type vehicle
+[Info] Recent model year 2010s–2020s
+[Info] White single-tone color
+[Damage] Rear bumper dented and scratched on right side
+[Damage] Rear right quarter panel dented and scratched
+[Damage] Rear bumper paint scratched and misaligned
+[Condition] No visible mud or rust
+[Accessories] Silver alloy rims
+[Graphics] No stickers or ads visible
+[Others] No cargo or occupants visible
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of white Chevrolet hatchback
+[Info][Damage] White hatchback with rear bumper dented and scratched
+[Damage][Condition] Rear bumper dented with no visible rust or mud
+[Info][Accessories] Chevrolet hatchback with silver alloy rims visible
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Right rear quarter panel dented and scratched
+Damage visible on right rear quarter panel
+Right rear quarter panel shows dents and scratches
+Scratches and dents present on right rear quarter panel
+Right rear quarter panel has visible damage
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: NA (small hatchback)
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_3_det01_0786px_vehicle_0p853.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality
+[Camera] Rear three-quarter view
+[Camera] Partial point of view
+[Info] White color vehicle
+[Info] Compact car type
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Rear three-quarter view of a white compact car
+[Info][Accessories] White compact car with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Compact car
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_11_det02_0351px_vehicle_0p663.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing left
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Side and front views visible
+[Camera] Partial point of view
+[Info] Dark gray color vehicles
+[Info] Sedan type vehicles
+[Info] Modern 2010s–2020s model year
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Camera][Info] Side and front views of dark gray sedans
+[Info][Accessories] Modern sedans with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_11_det01_0629px_vehicle_0p771.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] Modern 2020s model
+[Info] Single-tone dark gray color
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] Three-quarter front view of a modern Hyundai sedan
+[Camera][Accessories] Ground-level view showing multi-spoke alloy rims on dark gray car
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_17_det01_0677px_vehicle_0p799.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Partial ground-level POV
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type
+[Info] 2.0 badge indicating engine size
+[Info] Black single-tone color
+[Damage] Rear bumper broken and cracked on right side
+[Damage] Rear right fender dented and scratched
+[Damage] Misalignment between bumper and fender on right side
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Clear rear view of black Hyundai Sonata sedan
+[Info][Damage] Black Hyundai Sonata sedan with broken rear bumper
+[Damage][Info] Rear right fender dented and scratched on black sedan
+[Damage][Camera] Misalignment visible between bumper and fender in daylight
+Task 3
+Damage = Severe
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Rear right fender is dented and scratched
+Damage visible on rear right fender
+Rear right fender shows clear dents and scratches
+Scratches and dents present on rear right fender
+Rear right fender has significant damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_12_det02_0245px_vehicle_0p544.png:
+Task 1
+[Subject] Single vehicle partially occluded by another vehicle
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Rear three-quarter view of vehicle
+[Camera] Partial POV showing rear and side panels
+[Info] Hyundai make vehicle
+[Info] Sedan type vehicle
+[Info] Silver single-tone color
+[Info] Vehicle from 2010s–2020s decade
+[Accessories] Standard alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially occluded facing right in daylight
+[Camera][Info] Rear three-quarter view of silver Hyundai sedan with alloy rims
+[Info][Accessories] Silver Hyundai sedan with standard alloy rims visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Silver
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_18_det01_0493px_vehicle_0p714.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Ground-level POV
+[Info] Make Kia
+[Info] Model NA
+[Info] Type compact car
+[Info] Color single-tone beige
+[Damage] Dent on rear bumper left side
+[Damage] Broken hole on rear bumper lower right
+[Damage] Cracked rear windshield upper right
+[Condition] No mud stains or rust visible
+[Accessories] Alloy rims
+[Graphics] Three star stickers on rear windshield
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a beige Kia compact car with alloy rims
+[Damage][Condition] Dent and broken hole on rear bumper with no rust visible
+[Damage][Graphics] Cracked rear windshield with three star stickers on upper right
+Task 3
+Damage = Moderate
+Task 4
+Dent on rear bumper left side is clearly visible
+Rear bumper has a broken hole on lower right side
+Rear windshield is cracked on the upper right corner
+Visible damage includes dent and hole on rear bumper
+Cracked rear windshield shows significant damage
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Beige
+Type: Compact car
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_4_det01_0673px_vehicle_0p702.png:
+Task 1
+[Subject] Single vehicle stationary facing right
+[Camera] Day lighting conditions
+[Camera] Clear image with good color accuracy
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Kia make
+[Info] Sportage model
+[Info] SUV type
+[Info] 2010s–2020s year range
+[Info] White single-tone color
+[Damage] Large dent on left rear door panel
+[Damage] Multiple scratches on left rear door and quarter panel
+[Damage] Minor paint scuffs near rear wheel arch
+[Accessories] Rear roof spoiler
+[Accessories] Multi-spoke alloy rims
+[Graphics] Multiple stickers on rear windshield
+Task 2
+[Subject][Camera] Single vehicle stationary facing right in daylight
+[Camera][Info] Clear rear three-quarter ground-level view of white Kia SUV
+[Info][Damage] White Kia Sportage SUV with dents and scratches on left side
+[Damage][Accessories] Large dent and scratches near rear wheel arch with multi-spoke rims
+[Accessories][Graphics] Rear roof spoiler and multiple stickers on rear windshield
+Task 3
+Damage = Moderate
+Task 4
+Large dent on left rear door panel
+Dent visible on left rear door panel
+Left rear door panel shows a large dent
+Noticeable dent on left rear door panel
+Left rear door panel has a significant dent
+Multiple scratches on left rear door and quarter panel
+Scratches visible on left rear door and quarter panel
+Left rear door and quarter panel have multiple scratches
+Scratches present on left rear door and quarter panel
+Left rear door and quarter panel show several scratches
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sportage
+Color: White
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_5_det01_0615px_vehicle_0p755.png:
+Task 1
+[Subject] Single vehicle parked stationary
+[Subject] Vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Ground-level point of view
+[Info] Make Kia
+[Info] Model Morning
+[Info] Hatchback type vehicle
+[Info] Modern 2020s model
+[Info] Single-tone white color
+[Accessories] Alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a white Kia Morning hatchback
+[Camera][Accessories] Ground-level clear image showing alloy rims with spokes
+[Info][Accessories] Modern 2020s Kia Morning hatchback with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Morning
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_12_det01_0769px_vehicle_0p574.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Elantra model
+[Info] Sedan type
+[Info] 2010s–2020s year range
+[Info] Single-tone dark gray color
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high image quality
+[Camera][Info] Three-quarter front view of a dark gray Hyundai Elantra sedan
+[Camera][Accessories] Ground-level view showing multi-spoke alloy rims on the vehicle
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 85
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_7_det01_0711px_vehicle_0p718.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] White color vehicle with single-tone paint
+[Info] Minivan type vehicle
+[Info] Modern vehicle from 2010s–2020s
+[Damage] Hood misaligned and bent upwards
+[Damage] Front bumper misalignment and minor dents
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Three-quarter front view of a white modern minivan
+[Info][Damage] White minivan with hood bent upwards and front bumper misaligned
+[Damage][Accessories] Hood and bumper damage near multi-spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Hood is bent upwards and misaligned
+The front bumper shows misalignment and minor dents
+The hood appears damaged and raised
+Visible damage to the front bumper and hood
+The front bumper has noticeable dents and misalignment
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Carnival
+Color: White
+Type: Minivan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RC_6_det01_0748px_vehicle_0p786.png:
+Task 1
+[Subject] Single vehicle moving away from camera
+[Camera] Daytime lighting conditions
+[Camera] Rear view of vehicle
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Santa Fe model
+[Info] SUV type vehicle
+[Info] White single-tone color
+[Accessories] Rear spoiler
+[Accessories] Alloy rims
+Task 2
+[Subject][Camera] Single vehicle moving away from camera in daytime lighting
+[Camera][Info] Rear view of white Hyundai Santa Fe SUV
+[Info][Accessories] Hyundai Santa Fe SUV with rear spoiler and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Santa Fe
+Color: White
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_6_det02_0732px_vehicle_0p702.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with some noise
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] White color single-tone vehicle
+[Info] Minivan type vehicle
+[Info] Make Kia
+[Damage] Hood dented and misaligned
+[Damage] Front bumper cracked and misaligned
+[Damage] Front grille damaged and misaligned
+[Accessories] Roof box present
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with moderate image quality
+[Camera][Info] Three-quarter front view of white Kia minivan from ground-level POV
+[Info][Damage] White Kia minivan with dented hood and cracked front bumper
+[Damage][Accessories] Front grille damaged and misaligned with roof box present
+Task 3
+Damage = Moderate
+Task 4
+Hood is dented and misaligned
+Damage visible on the hood of the vehicle
+The hood shows clear signs of damage
+Front bumper is cracked and misaligned
+Damage present on the front bumper of the vehicle
+Front grille is damaged and misaligned
+Visible damage to the front grille area
+The front grille appears damaged and misaligned
+Hood and front bumper show noticeable damage
+The vehicle's front end has multiple damaged parts
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Minivan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_7_det02_0353px_vehicle_0p558.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Front and three-quarter views visible
+[Camera] Partial POV of vehicles
+[Info] White vehicle in front
+[Info] Black vehicle behind white vehicle
+[Info] White vehicle type sedan or compact
+[Info] Black vehicle type SUV or crossover
+[Damage] White vehicle hood misaligned and bent upwards
+[Damage] White vehicle front panel misaligned
+[Damage] White vehicle possible dents on hood
+[Accessories] No visible roof racks or spoilers
+[Graphics] No visible stickers or ads
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] Front and three-quarter views of white sedan and black SUV
+[Info][Damage] White vehicle hood bent upwards with misaligned front panel
+[Damage][Info] Possible dents on white vehicle hood and front panel
+[Camera][Accessories] Partial POV image with no visible roof racks or spoilers
+Task 3
+Damage = Moderate
+Task 4
+White vehicle hood misaligned and bent upwards
+Damage visible on white vehicle hood and front panel
+White vehicle front panel shows misalignment and dents
+Hood of white vehicle appears bent and damaged
+Misalignment and dents present on white vehicle front panel
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and Black
+Type: Sedan and SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_7_det03_0254px_vehicle_0p559.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Front three-quarter view of vehicles
+[Camera] Partial point of view
+[Info] White vehicle in front
+[Info] Black vehicle behind white vehicle
+[Info] Sedan type vehicles
+[Info] Modern 2010s–2020s vehicles
+[Info] Single-tone colors
+[Accessories] Side mirrors visible
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Camera][Info] Front three-quarter view of white and black sedans
+[Info][Accessories] White and black sedans with visible side mirrors
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_19_det01_0797px_vehicle_0p784.png:
+Task 1
+[Subject] Single vehicle partially visible from rear side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] White color vehicle with single-tone paint
+[Info] Compact car type
+[Info] Modern vehicle from 2010s–2020s
+[Damage] Dent and scratches on rear left fender and bumper
+[Damage] Misalignment between rear bumper and fender
+[Accessories] Silver alloy rims with five spokes
+Task 2
+[Subject][Camera] Single vehicle facing right captured in daylight with clear quality
+[Camera][Info] Rear three-quarter ground-level view of a white compact car
+[Info][Damage] Modern white compact car with dent and scratches on rear left fender
+[Damage][Accessories] Rear left fender damage with misaligned bumper and silver five-spoke rims
+Task 3
+Damage = Moderate
+Task 4
+Dent and scratches are visible on the rear left fender and bumper
+Damage is present on the rear left fender and bumper area
+The rear left fender and bumper show clear dents and scratches
+Visible misalignment between the rear bumper and fender indicates damage
+The rear bumper and fender are noticeably damaged and misaligned
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Compact car
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_7_det01_0685px_vehicle_0p689.png:
+Task 1
+[Subject] Single vehicle partially visible from rear left side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some blur
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Chevrolet make vehicle
+[Info] Sedan type vehicle
+[Info] Gray single-tone color
+[Info] 2010s–2020s model year range
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear left side in daylight
+[Camera][Info] Rear three-quarter view of gray Chevrolet sedan with alloy rims
+[Info][Accessories] Gray Chevrolet sedan with multi-spoke alloy rims visible
+[Subject][Info] Vehicle facing right direction is a Chevrolet sedan
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: NA
+Color: Gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_1_det02_0204px_vehicle_0p610.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting
+[Camera] Medium quality image with some noise
+[Camera] Three-quarter front view of main vehicle
+[Camera] Partial POV of main vehicle
+[Info] Main vehicle make likely Lexus
+[Info] Main vehicle model likely ES series
+[Info] Sedan type vehicle
+[Info] Model year likely 2010s to 2020s
+[Info] Main vehicle color dark blue single-tone
+[Accessories] Main vehicle alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] Three-quarter front view of dark blue Lexus sedan
+[Info][Accessories] Lexus ES sedan with multi-spoke alloy rims
+[Subject][Info] Multiple vehicles including a dark blue sedan facing right
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Lexus
+Model: ES series
+Color: Dark blue
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_13_det01_0763px_vehicle_0p884.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting
+[Camera] Clear image quality
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Sedan type
+[Info] White single-tone color
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Clear three-quarter front view of white Hyundai sedan
+[Subject][Info] Partial POV of a white Hyundai sedan facing right
+Task 3
+Damage = Minor
+Task 4
+Front bumper shows visible scratches and minor damage
+Damage present on the front bumper near lower corner
+Front bumper appears scratched and slightly misaligned
+Visible damage to the front bumper lower section
+Front bumper has noticeable scratches and minor misalignment
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_1_det01_0645px_vehicle_0p683.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Ground-level point of view
+[Info] Genesis make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Modern 2020s model
+[Damage] Dent on left rear bumper corner
+[Damage] Misalignment on left rear bumper panel
+[Accessories] Roof antenna fin
+[Accessories] Rear spoiler integrated into trunk lid
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a white Genesis sedan with roof antenna fin
+[Info][Damage] Modern 2020s Genesis sedan with dent and misalignment on rear bumper
+[Damage][Accessories] Dent and misalignment on left rear bumper near integrated rear spoiler
+Task 3
+Damage = Minor
+Task 4
+Dent on left rear bumper corner
+Damage present on left rear bumper corner
+Left rear bumper corner shows visible dent
+Visible dent on left rear bumper corner
+Left rear bumper corner has noticeable dent
+Misalignment on left rear bumper panel
+Damage present on left rear bumper panel
+Left rear bumper panel shows visible misalignment
+Visible misalignment on left rear bumper panel
+Left rear bumper panel has noticeable misalignment
+Task 5
+Vehicle: Yes
+Make: Genesis
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_7_det02_0287px_vehicle_0p493.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of a Chevrolet vehicle visible
+[Subject] Side of a white vehicle visible
+[Camera] Daytime lighting conditions
+[Camera] Rear view of Chevrolet vehicle
+[Camera] Side view of white vehicle
+[Camera] Partial point of view
+[Info] Chevrolet make identified by emblem
+[Info] Chevrolet vehicle color is brown or bronze
+[Info] White vehicle color is white
+[Info] Chevrolet vehicle type likely sedan
+[Accessories] Side mirror visible on white vehicle
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daytime lighting
+[Subject][Info] Rear of a brown Chevrolet sedan visible with emblem
+[Camera][Info] Side view of white vehicle with side mirror visible
+[Info][Accessories] Chevrolet sedan with visible side mirror on white vehicle
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: NA
+Color: Brown/Bronze (Chevrolet), White (other vehicle)
+Type: Sedan (Chevrolet)
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_14_det01_0644px_vehicle_0p629.png:
+Task 1
+[Subject] Single vehicle visible
+[Subject] Vehicle facing towards right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Sedan type
+[Info] White single-tone color
+[Info] Model likely Elantra
+[Info] Year range 2010s–2020s
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear quality
+[Camera][Info] Three-quarter front view of white Hyundai sedan with alloy rims
+[Info][Accessories] Hyundai sedan likely Elantra with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Elantra (likely)
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_20_det02_0246px_vehicle_0p501.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing right
+[Camera] Indoor lighting product shot
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view of white vehicle
+[Camera] Partial POV showing front and side
+[Info] White color vehicle
+[Info] SUV type vehicle
+[Accessories] Multi-spoke alloy rims on white vehicle
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in indoor product shot
+[Camera][Info] High quality three-quarter front view of white SUV
+[Info][Accessories] White SUV with multi-spoke alloy rims visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = NA
+Task 8
+Multiple = yes
+
+tqvcd/FN_15_det01_0720px_vehicle_0p721.png:
+Task 1
+[Subject] Single vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Good image quality with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Make Kia
+[Info] Model Soul
+[Info] Type compact crossover SUV
+[Info] Year 2010s–2020s
+[Info] Color white single-tone
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing left in daylight with good image quality
+[Camera][Info] Three-quarter front view of a white Kia Soul compact crossover SUV
+[Camera][Accessories] Ground-level point of view showing five-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Soul
+Color: White
+Type: Compact crossover SUV
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_8_det01_0693px_vehicle_0p672.png:
+Task 1
+[Subject] Single vehicle partially visible from front right side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Moderate image quality with slight blur
+[Camera] Front three-quarter view
+[Camera] Partial POV
+[Info] White color vehicle
+[Info] SUV type vehicle
+[Info] Make Kia
+[Damage] Hood dented and misaligned
+[Damage] Front bumper cracked and misaligned
+[Damage] Front grille cracked
+[Damage] Damage focused on front right side
+[Condition] No visible mud stains or rust
+[Accessories] Chrome trim around fog light
+[Accessories] Alloy rim visible on front right wheel
+Task 2
+[Subject][Camera] Single vehicle partially visible from front right side in daylight
+[Camera][Info] Front three-quarter view of white Kia SUV with chrome trim
+[Damage][Info] Hood dented and misaligned on white Kia SUV front right side
+[Damage][Camera] Front bumper cracked and misaligned in partial front view
+[Damage][Accessories] Front grille cracked near chrome fog light trim
+Task 3
+Damage = Moderate
+Task 4
+Hood is dented and misaligned
+Visible dents and misalignment on the hood
+The hood shows clear signs of damage
+Damage is evident on the hood area
+The hood has noticeable dents and misalignment
+Front bumper is cracked and misaligned
+Cracks and misalignment visible on front bumper
+The front bumper shows clear damage
+Damage is present on the front bumper
+Front bumper has visible cracks and misalignment
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_9_det02_0265px_vehicle_0p644.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear vehicle facing left
+[Subject] Front vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Rear view of rear vehicle
+[Camera] Side view of front vehicle
+[Info] Rear vehicle black color
+[Info] Rear vehicle SUV type
+[Info] Rear vehicle modern design 2020s
+[Info] Rear vehicle multi-spoke alloy rims
+[Info] Front vehicle dark gray color
+[Info] Front vehicle SUV type
+[Accessories] Rear vehicle antenna fin
+[Accessories] Rear vehicle multi-spoke alloy rims
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] Rear vehicle facing left is a black SUV
+[Subject][Info] Front vehicle facing right is a dark gray SUV
+[Camera][Info] Rear view of rear vehicle shows modern 2020s design
+[Info][Accessories] Rear vehicle has multi-spoke alloy rims and antenna fin
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Rear vehicle black front vehicle dark gray
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_2_det01_0247px_vehicle_0p665.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Moderate image quality
+[Camera] Side view of vehicle
+[Camera] Partial point of view
+[Info] Light blue color vehicle
+[Info] Hatchback type vehicle
+[Info] Unknown make and model
+[Info] Modern vehicle from 2000s to 2020s
+[Accessories] Standard steel rim wheels
+Task 2
+[Subject][Camera] Single vehicle partially visible facing left in daylight
+[Camera][Info] Side view of light blue hatchback vehicle with moderate quality
+[Info][Accessories] Modern hatchback vehicle with standard steel rim wheels
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Light blue
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_20_det01_0621px_vehicle_0p647.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear and left side
+[Info] Kia make
+[Info] Carnival model
+[Info] Minivan type vehicle
+[Info] 2010s–2020s year range
+[Info] White single-tone color
+[Damage] Dent on rear left bumper
+[Damage] Scratches on rear left bumper and panel
+[Damage] Paint peel on rear left bumper
+[Damage] Misalignment between rear bumper and panel
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a clear image Kia Carnival minivan
+[Info][Damage] White Kia Carnival minivan with dents and scratches on rear left bumper
+[Damage][Accessories] Rear left bumper dent and paint peel near spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Rear left bumper shows visible dents and scratches
+Damage present on the rear left bumper and panel
+Rear left bumper and panel appear damaged with paint peel
+Visible damage to the rear left bumper and adjacent panel
+Rear left bumper has noticeable dents and misalignment
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Carnival
+Color: White
+Type: Minivan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RC_9_det01_0693px_vehicle_0p787.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Partial POV from ground level
+[Info] Kia make vehicle
+[Info] Sedan type vehicle
+[Info] Dark blue single-tone color
+[Info] 2020s model year range
+[Damage] Rear bumper dented and misaligned
+[Damage] Rear bumper paint scratched and cracked
+[Accessories] Alloy rims with spoke design
+[Graphics] Sticker on rear windshield
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a high quality Kia sedan in dark blue
+[Info][Damage] Kia sedan with rear bumper dented and paint scratched
+[Damage][Accessories] Rear bumper damage near alloy rims with spoke design
+[Accessories][Graphics] Alloy rims and rear windshield sticker visible
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Dark blue
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_16_det01_0773px_vehicle_0p692.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Kia make vehicle
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Modern design likely 2020s model
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] Three-quarter front view of a white Kia sedan
+[Camera][Accessories] Ground-level view showing multi-spoke alloy rims
+[Info][Accessories] Modern white Kia sedan with multi-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_16_det02_0466px_vehicle_0p550.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front three-quarter view of vehicles
+[Camera] Partial point of view
+[Info] White color vehicles
+[Info] Sedan type vehicles
+[Info] Modern 2020s vehicles
+[Accessories] Side mirrors visible
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] High quality front three-quarter view of white sedans
+[Info][Accessories] Modern 2020s white sedans with side mirrors visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_8_det02_0304px_vehicle_0p617.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing away from camera
+[Camera] Day lighting conditions
+[Camera] Rear view of vehicles
+[Camera] Partial POV
+[Info] White color vehicles
+[Info] Sedan type vehicles
+Task 2
+[Subject][Camera] Multiple vehicles facing away from camera in daylight
+[Camera][Info] Rear view of white sedan vehicles partially visible
+[Subject][Info] Multiple white sedans facing away from camera
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_9_det01_0793px_vehicle_0p835.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Kia make vehicle
+[Info] Black color single-tone paint
+[Info] SUV type vehicle
+[Info] 2010s–2020s model year range
+[Damage] Large dent on front hood
+[Damage] Dent and misalignment on front right fender
+[Damage] Scratches on front bumper
+[Damage] Misalignment between bumper and fender
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of black Kia SUV from 2010s–2020s
+[Damage][Info] Large dent on front hood and scratches on bumper
+[Damage][Accessories] Dent and misalignment on front right fender with multi-spoke rims
+[Camera][Damage] Partial POV showing front and side with visible damage
+Task 3
+Damage = Moderate
+Task 4
+Large dent visible on the front hood
+Damage present on the front hood of the vehicle
+Front hood shows noticeable dent damage
+Visible dent damage on the front hood
+Front hood has a large dent
+Dent and misalignment visible on front right fender
+Damage present on the front right fender
+Front right fender shows dent and misalignment
+Visible damage on front right fender area
+Front right fender has noticeable dent and misalignment
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Black
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_10_det01_0767px_vehicle_0p713.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear and side
+[Info] Make Kia
+[Info] Model Carnival
+[Info] Type minivan
+[Info] Year 2010s–2020s
+[Info] Color single-tone white
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Clear rear view of white Kia Carnival minivan
+[Info][Accessories] White Kia Carnival minivan with spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Carnival
+Color: White
+Type: Minivan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_17_det02_0203px_vehicle_0p680.png:
+Task 1
+[Subject] Single vehicle fully visible
+[Subject] Vehicle facing left
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Side view of vehicle
+[Camera] Partial POV at mid-height
+[Info] Red color vehicle with single-tone paint
+[Info] Hatchback type vehicle
+[Info] Modern design likely 2010s–2020s
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing left in daylight
+[Camera][Info] Side view of red hatchback with alloy rims
+[Info][Accessories] Modern red hatchback with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Red
+Type: Hatchback
+Task 6
+Visibility = 90
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_10_det01_0708px_vehicle_0p799.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Side view of vehicle
+[Camera] Partial point of view
+[Info] Tesla make
+[Info] Model 3
+[Info] Sedan type
+[Info] 2020s year range
+[Info] Single-tone white color
+[Damage] Dent on front right fender near headlight
+[Damage] Misalignment of fender panel near headlight
+[Accessories] Monoblock style rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] High quality side view of white Tesla Model 3 sedan
+[Info][Damage] 2020s Tesla Model 3 with dent and misaligned front fender
+[Damage][Accessories] Dented front right fender with monoblock style rims
+Task 3
+Damage = Moderate
+Task 4
+Dent on front right fender near headlight
+Damage present on the front right fender near headlight
+Front right fender shows visible dent near headlight
+Visible dent on front right fender close to headlight
+Front right fender has noticeable dent near headlight
+Misalignment of fender panel near headlight
+Damage present on the fender panel near headlight
+Fender panel near headlight appears misaligned
+Visible misalignment of fender panel near headlight
+Fender panel near headlight has noticeable misalignment
+Task 5
+Vehicle: Yes
+Make: Tesla
+Model: Model 3
+Color: White
+Type: Sedan
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_17_det01_0695px_vehicle_0p689.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front-right view
+[Camera] Ground-level POV
+[Info] Kia make vehicle
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] Model appears to be Kia Forte or similar
+[Info] Year likely 2010s to 2020s
+[Accessories] Five-spoke alloy rims
+[Accessories] Black side mirrors
+[Accessories] No visible roof rack or sunroof
+[Graphics] Small decal or sticker near front fender
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] High quality three-quarter front-right view of Kia sedan
+[Camera][Accessories] Ground-level POV shows five-spoke alloy rims and black mirrors
+[Info][Graphics] White Kia sedan with small decal near front fender
+[Info][Accessories] 2010s to 2020s Kia Forte with white single-tone color
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Forte (approximate)
+Color: White
+Type: Sedan
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_11_det01_0702px_vehicle_0p686.png:
+Task 1
+[Subject] Single vehicle visible from rear right side
+[Subject] Vehicle facing right direction
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter rear view
+[Camera] Ground-level POV
+[Info] Hyundai make
+[Info] Sedan type vehicle
+[Info] White single-tone color
+[Info] 2010s–2020s model year range
+[Accessories] Rear spoiler present
+[Accessories] Five-spoke rims
+Task 2
+[Subject][Camera] Single vehicle visible from rear right side in daylight
+[Camera][Info] Clear three-quarter rear view of white Hyundai sedan
+[Info][Accessories] White Hyundai sedan with rear spoiler and five-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_2_det02_0728px_vehicle_0p591.png:
+Task 1
+[Subject] Single vehicle partially visible from rear left side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] Make Kia
+[Info] Model Ray
+[Info] Type hatchback
+[Info] Year 2010s–2020s
+[Info] Color white single-tone
+[Damage] Rear bumper broken and misaligned on left side
+[Damage] Rear left panel dented near tail light
+[Condition] No visible mud stains or rust
+[Accessories] Alloy rims with 5 spokes
+[Graphics] No stickers or ads visible
+[Others] No cargo or tow visible
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear left side in daylight
+[Camera][Info] Clear image of white Kia Ray hatchback from rear three-quarter view
+[Info][Damage] White Kia Ray hatchback with broken and misaligned rear bumper
+[Damage][Condition] Rear left panel dented with no visible rust or stains
+[Accessories][Others] Alloy rims with 5 spokes and no cargo or tow visible
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper is broken and misaligned on the left side
+Damage is visible on the rear bumper and left panel
+The rear left panel shows a noticeable dent near the tail light
+The rear bumper has clear damage and is out of alignment
+There is a dent and damage on the rear left side of the vehicle
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Ray
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_10_det01_0669px_vehicle_0p869.png:
+Task 1
+[Subject] Single vehicle facing front-left direction
+[Camera] Indoor lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and left side
+[Info] Hyundai make
+[Info] SUV type vehicle
+[Info] Modern 2020s model
+[Info] Single-tone yellow-green color
+[Damage] Misalignment on front left fender and hood
+[Damage] Scratches on front left fender and bumper
+[Damage] Slight dent near front left headlight
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing front-left direction in indoor lighting
+[Camera][Info] High quality three-quarter front view of Hyundai SUV
+[Info][Damage] Modern 2020s yellow-green SUV with misaligned front fender and hood
+[Damage][Accessories] Scratches and slight dent near front left headlight with multi-spoke rims
+Task 3
+Damage = Moderate
+Task 4
+Misalignment visible on front left fender and hood
+Front left fender and hood show clear misalignment
+Scratches present on front left fender and bumper
+Visible scratches on front left fender and bumper area
+Slight dent near front left headlight is noticeable
+Dent near front left headlight can be seen clearly
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Yellow-green
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/FC_11_det01_0705px_vehicle_0p793.png:
+Task 1
+[Subject] Single vehicle visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Make Kia
+[Info] Model Sportage
+[Info] SUV type vehicle
+[Info] Year 2010s–2020s
+[Info] Single-tone white color
+[Damage] Minor dents on front bumper and fender
+[Damage] Minor scratches on front bumper
+[Accessories] Alloy rims with spokes
+[Accessories] Sunroof present
+[Accessories] Rear roof spoiler present
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of white Kia Sportage SUV
+[Info][Damage] White Kia Sportage SUV with minor dents and scratches
+[Damage][Accessories] Minor dents and scratches near front bumper with alloy rims
+[Accessories][Info] Sunroof and rear roof spoiler on white Kia Sportage
+Task 3
+Damage = Minor
+Task 4
+Minor dents visible on front bumper and fender
+Front bumper and fender show minor dents
+Minor scratches present on front bumper
+Front bumper has minor scratches
+Scratches and dents visible on front bumper area
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sportage
+Color: White
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_3_det01_0636px_vehicle_0p811.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of vehicle
+[Camera] Partial ground-level POV
+[Info] Make Kia
+[Info] Model Morning
+[Info] Hatchback type vehicle
+[Info] Modern 2010s–2020s year range
+[Info] Black single-tone color
+[Damage] Scratches and dents on rear bumper left side
+[Damage] Misalignment on rear bumper left side
+[Accessories] Dual exhaust pipes
+[Accessories] Rear windshield wiper
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Clear rear view of black Kia Morning hatchback
+[Info][Damage] Black Kia Morning hatchback with scratches and dents on rear bumper
+[Damage][Accessories] Scratched rear bumper near dual exhaust pipes and rear wiper
+[Camera][Accessories] Partial ground-level rear view with dual exhaust and rear wiper
+Task 3
+Damage = Moderate
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Morning
+Color: Black
+Type: Hatchback
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_12_det01_0262px_vehicle_0p614.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Rear of a dark gray vehicle facing left
+[Subject] Side of a white vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear view of dark gray vehicle
+[Camera] Side view of white vehicle
+[Camera] Partial point of view
+[Info] Dark gray Hyundai vehicle
+[Info] Model Sonata
+[Info] Sedan type vehicle
+[Info] Modern 2010s–2020s vehicle
+[Info] Dark gray single-tone color
+[Info] White single-tone color vehicle
+[Accessories] White vehicle has multi-spoke alloy wheels
+[Accessories] Dark gray vehicle has standard rims
+[Damage] None visible on either vehicle
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Subject][Info] Rear of dark gray Hyundai Sonata sedan facing left
+[Subject][Info] Side of white vehicle with multi-spoke wheels facing right
+[Camera][Info] Clear image shows modern 2010s–2020s vehicles
+[Info][Accessories] White vehicle has multi-spoke alloy wheels and dark gray vehicle has standard rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Dark gray
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RB_4_det01_0507px_vehicle_0p649.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Indoor lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Partial POV from slightly above ground level
+[Info] Genesis make
+[Info] G70 model
+[Info] Sedan type vehicle
+[Info] 2020s era vehicle
+[Info] Single-tone black color
+[Accessories] Dual exhaust outlets
+[Accessories] Rear antenna fin
+[Accessories] No visible roof rack or spoiler
+[Graphics] No stickers or ads visible
+Task 2
+[Subject][Camera] Single vehicle facing away from camera under indoor lighting
+[Camera][Info] Rear view of a high quality Genesis G70 sedan
+[Info][Accessories] Black 2020s sedan with dual exhaust outlets and antenna fin
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Genesis
+Model: G70
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/FC_12_det01_0542px_vehicle_0p708.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Make is SsangYong
+[Info] Model is Tivoli
+[Info] Type is SUV
+[Info] Year range 2010s–2020s
+[Info] Color single-tone red
+[Damage] Hood dented and crumpled
+[Damage] Front bumper misaligned and dented
+[Damage] Front grille damaged and misaligned
+[Damage] Left headlight cracked or broken
+[Condition] No mud stains or rust visible
+[Accessories] Alloy rims with spoke design
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of red SsangYong Tivoli SUV
+[Info][Damage] Red SUV with crumpled hood and misaligned front bumper
+[Damage][Condition] Hood dented and front grille damaged without rust or stains
+[Damage][Accessories] Left headlight broken near alloy spoke rims
+Task 3
+Damage = Severe
+Task 4
+Hood is heavily dented and crumpled
+The front bumper is misaligned and dented
+The front grille shows visible damage and misalignment
+The left headlight is cracked or broken
+The vehicle front has severe damage overall
+Task 5
+Vehicle: Yes
+Make: SsangYong
+Model: Tivoli
+Color: Red
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_4_det02_0245px_vehicle_0p475.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Medium quality image with some noise
+[Camera] Side view of vehicles
+[Camera] Partial POV
+[Info] Black sedan visible
+[Info] Silver sedan visible
+[Info] Sedan type vehicles
+[Info] Modern 2010s–2020s vehicles
+[Info] Single-tone black and silver colors
+[Accessories] Multi-spoke alloy rims on black sedan
+[Accessories] Multi-spoke alloy rims on silver sedan
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing right in daylight
+[Camera][Info] Side view of modern black and silver sedans with alloy rims
+[Info][Accessories] Black and silver sedans with multi-spoke alloy rims visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black and silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_18_det02_0282px_vehicle_0p496.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle on left side facing right
+[Subject] White vehicle on right side facing left
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Partial front view of right vehicle
+[Camera] Partial side view of left vehicle
+[Info] Right vehicle is Kia make
+[Info] Right vehicle is white color
+[Info] Left vehicle is white color
+[Info] Left vehicle type appears to be SUV
+[Info] Right vehicle type appears to be SUV
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight
+[Camera][Info] Partial front view of white Kia SUV on right
+[Subject][Info] White SUV on left side facing right partially visible
+[Info][Camera] White SUV vehicles captured with high quality image
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_11_det01_0454px_vehicle_0p617.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing left
+[Camera] Day lighting conditions
+[Camera] High quality image clarity and color accuracy
+[Camera] Three-quarter front view of vehicles
+[Camera] Partial point of view
+[Info] White SUV vehicle
+[Info] Silver compact car vehicle
+[Info] SUV type vehicle
+[Info] Compact car type vehicle
+[Info] Vehicles from 2010s to 2020s
+[Info] Single-tone white color SUV
+[Info] Single-tone silver color compact car
+[Accessories] SUV with multi-spoke alloy wheels
+[Accessories] Compact car with multi-spoke alloy wheels
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing left in daylight
+[Camera][Info] Three-quarter front view of white SUV and silver compact car
+[Info][Accessories] White SUV and silver compact car both have multi-spoke alloy wheels
+[Subject][Info] Vehicles include a white SUV and a silver compact car from 2010s to 2020s
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia (compact car)
+Model: NA
+Color: White (SUV), Silver (compact car)
+Type: SUV, Compact car
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FN_18_det01_0666px_vehicle_0p726.png:
+Task 1
+[Subject] Single vehicle parked stationary
+[Subject] Vehicle facing towards right side
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV from ground level
+[Info] Make Kia
+[Info] Model Seltos
+[Info] SUV type vehicle
+[Info] Year 2020s
+[Info] Single-tone white color
+[Accessories] Roof antenna fin present
+[Accessories] Alloy rims with multi-spoke design
+Task 2
+[Subject][Camera] Single vehicle parked stationary in daylight with clear details
+[Camera][Info] Three-quarter front view of a white Kia Seltos SUV
+[Info][Accessories] 2020s Kia Seltos SUV with roof antenna fin and alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Seltos
+Color: White
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_12_det02_0736px_vehicle_0p660.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Sonata model
+[Info] Sedan type vehicle
+[Info] 2020s model year
+[Info] Single-tone gray color
+[Accessories] Shark fin antenna on roof
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a gray Hyundai Sonata sedan
+[Info][Accessories] 2020s gray Hyundai Sonata sedan with shark fin antenna
+[Camera][Accessories] High quality ground-level image showing multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Sonata
+Color: Gray
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_12_det02_0347px_vehicle_0p656.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle facing right
+[Subject] Red vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Side view of white vehicle
+[Camera] Front three-quarter view of red vehicle
+[Camera] Partial point of view
+[Info] White vehicle make unknown
+[Info] Red vehicle make Toyota
+[Info] Red vehicle type sedan
+[Info] White vehicle color single-tone white
+[Info] Red vehicle color single-tone red
+[Damage] Red vehicle front hood heavily dented and crumpled
+[Damage] Red vehicle front bumper misaligned and damaged
+[Accessories] White vehicle has chrome door handle
+[Accessories] Red vehicle has chrome grille
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight with high quality
+[Subject][Info] White vehicle facing right with unknown make and single-tone color
+[Subject][Info] Red Toyota sedan facing right with single-tone red color
+[Camera][Damage] Front three-quarter view shows red vehicle hood heavily dented
+[Damage][Accessories] Red vehicle front bumper misaligned near chrome grille
+[Info][Accessories] White vehicle has chrome door handle visible in side view
+Task 3
+Damage = Severe
+Task 4
+Red vehicle front hood is heavily dented and crumpled
+The front hood of the red vehicle shows severe damage
+There is a large dent and crumpling on the red vehicle hood
+The red vehicle's front hood is visibly damaged and deformed
+Severe damage is present on the red vehicle's front hood
+The red vehicle's front bumper is misaligned and damaged
+Damage is visible on the front bumper of the red vehicle
+The front bumper of the red vehicle appears misaligned and damaged
+Misalignment and damage are evident on the red vehicle's front bumper
+The red vehicle's front bumper shows clear signs of damage
+Task 5
+Vehicle: Yes
+Make: Toyota (red vehicle)
+Model: NA
+Color: White (white vehicle), Red (red vehicle)
+Type: Sedan (red vehicle), NA (white vehicle)
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RN_13_det01_0694px_vehicle_0p701.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing rear and left side
+[Info] Make Kia
+[Info] Model Sorento
+[Info] SUV type vehicle
+[Info] Modern 2010s–2020s model
+[Info] Single-tone dark gray color
+[Accessories] Rear spoiler on roof
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a high quality Kia Sorento SUV
+[Info][Accessories] Modern dark gray Kia Sorento SUV with rear spoiler
+[Camera][Accessories] Partial rear view showing multi-spoke alloy rims and spoiler
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sorento
+Color: Dark gray
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_19_det01_0765px_vehicle_0p717.png:
+Task 1
+[Subject] Single vehicle partially visible from front-left side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] High clarity and color accuracy
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Hyundai make
+[Info] Van type vehicle
+[Info] Silver single-tone color
+[Info] 2000s–2020s year range
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible from front-left side in daylight
+[Camera][Info] Three-quarter front view of a silver Hyundai van
+[Info][Accessories] Silver Hyundai van with multi-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Dent visible on the left front fender
+Left front fender shows a dent
+Dent present on the front-left fender
+Front-left fender has a visible dent
+There is a dent on the left front fender
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: Silver
+Type: Van
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_11_det02_0612px_vehicle_0p600.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Kia make
+[Info] Small hatchback model
+[Info] Compact car type
+[Info] 2010s–2020s year range
+[Info] Single-tone silver color
+[Damage] Front bumper misalignment and damage
+[Damage] Front bumper broken and cracked
+[Accessories] Standard steel rims with hubcaps
+[Graphics] Advertising text on front door panel
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Three-quarter front view of a silver Kia compact hatchback
+[Info][Damage] Kia hatchback with front bumper broken and misaligned
+[Damage][Accessories] Front bumper damage near standard steel rims with hubcaps
+[Info][Graphics] Silver compact car with advertising text on front door panel
+Task 3
+Damage = Moderate
+Task 4
+Front bumper shows visible damage
+Damage present on the front bumper
+Front bumper appears broken and cracked
+Visible damage to the front bumper area
+Front bumper has noticeable misalignment and cracks
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: Silver
+Type: Compact hatchback
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_5_det01_0543px_vehicle_0p758.png:
+Task 1
+[Subject] Single vehicle facing right side
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Make Kia
+[Info] Model Picanto
+[Info] Type hatchback
+[Info] Year 2010s–2020s
+[Info] Color single-tone white
+[Damage] Rear right bumper broken and misaligned
+[Damage] Rear right quarter panel dented and paint peeled
+[Accessories] Rear antenna present
+[Accessories] Alloy rims with spoke design
+[Graphics] White sticker on rear windshield
+Task 2
+[Subject][Camera] Single vehicle facing right side in daylight
+[Camera][Info] Clear rear three-quarter view of white Kia Picanto
+[Info][Damage] White Kia Picanto hatchback with rear right bumper damage
+[Damage][Accessories] Rear right quarter panel dented near alloy rims
+[Accessories][Graphics] Rear antenna and white sticker on rear windshield
+Task 3
+Damage = Moderate
+Task 4
+Rear right bumper is broken and misaligned
+Damage visible on rear right bumper area
+Rear right quarter panel shows dents and paint peel
+Dents and paint peel present on rear right quarter panel
+Rear right side of vehicle has noticeable damage
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Picanto
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_19_det02_0324px_vehicle_0p504.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicle front hood visible
+[Subject] Dark vehicle side visible behind white vehicle
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Partial front view of white vehicle
+[Camera] Partial side view of dark vehicle
+[Info] White vehicle color single-tone
+[Info] Dark vehicle color single-tone
+[Info] Vehicle types not clearly identifiable
+[Accessories] No visible accessories on white vehicle
+[Accessories] No visible accessories on dark vehicle
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in daylight with high image quality
+[Subject][Info] White vehicle front hood visible with single-tone color
+[Subject][Info] Dark vehicle side visible behind white vehicle with single-tone color
+[Camera][Accessories] Partial front and side views show no visible accessories on vehicles
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White and dark colors
+Type: NA
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_13_det01_1216px_vehicle_0p912.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Front three-quarter view
+[Camera] Ground-level POV
+[Info] Make Mini
+[Info] Color dark blue single-tone
+[Info] Type compact SUV
+[Damage] Multiple scratches on front fender and bumper
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Front three-quarter view of a dark blue Mini compact SUV
+[Info][Damage] Dark blue Mini compact SUV with scratches on front fender and bumper
+[Damage][Accessories] Scratches on front fender and bumper near multi-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Scratches are visible on the front fender and bumper
+The front fender and bumper have multiple scratches
+Visible scratches appear on the front fender and bumper
+The front bumper and fender show several scratches
+Scratches are noticeable on the front bumper and fender
+Task 5
+Vehicle: Yes
+Make: Mini
+Model: NA
+Color: Dark blue
+Type: Compact SUV
+Task 6
+Visibility = 30
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_14_det01_0662px_vehicle_0p723.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Rear view of vehicle
+[Camera] Partial POV showing full rear and part of sides
+[Info] Make Kia
+[Info] Model Sorento
+[Info] SUV type vehicle
+[Info] Modern vehicle from 2010s–2020s
+[Info] Single-tone dark gray color
+[Accessories] Rear windshield wiper present
+[Accessories] Roof antenna fin present
+[Accessories] Rear reflectors integrated in bumper
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear view of a high quality Kia Sorento SUV
+[Info][Accessories] Modern dark gray Kia Sorento SUV with rear wiper and antenna fin
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Sorento
+Color: Dark gray
+Type: SUV
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_6_det01_0695px_vehicle_0p624.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view of vehicle
+[Camera] Ground-level point of view
+[Info] Hyundai make
+[Info] Avante model
+[Info] Sedan type vehicle
+[Info] 2020s year range
+[Info] Single-tone white color
+[Accessories] Rear spoiler present
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a white Hyundai Avante sedan
+[Camera][Accessories] Ground-level view shows rear spoiler and multi-spoke alloy rims
+[Info][Accessories] 2020s white Hyundai Avante sedan with rear spoiler and alloy rims
+Task 3
+Damage = Minor
+Task 4
+Rear bumper has minor scratches
+Minor scratches visible on rear bumper
+Rear bumper shows slight scratches
+Small scratches present on rear bumper
+Rear bumper has light surface damage
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: Avante
+Color: White
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_14_det01_0752px_vehicle_0p802.png:
+Task 1
+[Subject] Single vehicle partially visible from front left side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Kia make
+[Info] Model likely Picanto
+[Info] Small hatchback type
+[Info] White single-tone color
+[Damage] Scratches and minor dents on front left fender and bumper
+[Damage] Misalignment between fender and bumper near front left wheel
+[Condition] No visible mud or rust
+[Accessories] Five-spoke alloy rims
+[Graphics] No stickers or ads visible
+[Others] No cargo or distinctive features
+Task 2
+[Subject][Camera] Single vehicle partially visible from front left side in daylight
+[Camera][Info] Clear image of a white Kia Picanto hatchback three-quarter front view
+[Damage][Condition] Scratches and minor dents on front left fender with no rust
+[Damage][Info] Misalignment between fender and bumper near front left wheel on white hatchback
+[Accessories][Info] Five-spoke alloy rims on a small white Kia hatchback
+Task 3
+Damage = Minor
+Task 4
+Scratches and minor dents are visible on the front left fender and bumper
+The front left fender and bumper show scratches and small dents
+Visible scratches and dents appear on the front left side of the vehicle
+Minor dents and scratches are present on the front left fender and bumper
+The front left area of the vehicle has noticeable scratches and dents
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Picanto (likely)
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_12_det01_0637px_vehicle_0p624.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Three-quarter front view
+[Camera] Ground-level point of view
+[Info] Kia make vehicle
+[Info] Model appears to be Kia Soul
+[Info] Type is compact hatchback
+[Info] Year range 2010s–2020s
+[Info] Single-tone white color
+[Damage] Dent on front right fender
+[Damage] Scratches on front right fender
+[Damage] Misalignment of front right bumper
+[Damage] Front right bumper broken and cracked
+[Condition] Mud stains on lower side panels
+[Accessories] Alloy rims with five spokes
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] Three-quarter front view of a white Kia Soul hatchback
+[Info][Damage] Kia Soul shows dent and scratches on front right fender
+[Damage][Condition] Front right bumper is broken with mud stains on side panels
+[Condition][Accessories] Mud stains visible on lower panels with five-spoke alloy rims
+Task 3
+Damage = Moderate
+Task 4
+Dent on front right fender is clearly visible
+Front right fender has noticeable dents
+There are visible scratches on the front right fender
+Front right bumper is broken and cracked
+Misalignment and breakage present on front right bumper
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Soul
+Color: White
+Type: Compact hatchback
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FB_12_det03_0339px_vehicle_0p526.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicles facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Front and side views visible
+[Camera] Partial POV of vehicles
+[Info] Kia make on front vehicle
+[Info] Sedan type vehicles
+[Info] White single-tone color
+[Accessories] Multi-spoke alloy rims on right vehicle
+Task 2
+[Subject][Camera] Multiple white vehicles partially visible in daylight
+[Camera][Info] Clear image showing front and side views of sedans
+[Info][Accessories] Kia sedan with multi-spoke alloy rims visible
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_6_det03_0320px_vehicle_0p608.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] White vehicles facing left
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear and side views visible
+[Camera] Partial POV of vehicles
+[Info] Hyundai make on rear vehicle
+[Info] Sedan type vehicles
+[Info] White single-tone color
+[Damage] Dent on rear left panel of Hyundai vehicle
+[Accessories] Alloy rims with multiple spokes
+Task 2
+[Subject][Camera] Multiple white vehicles partially visible in daylight
+[Camera][Info] Clear image showing rear and side views of sedans
+[Info][Damage] White Hyundai sedan with dent on rear left panel
+[Info][Accessories] Hyundai sedan with multi-spoke alloy rims
+Task 3
+Damage = Minor
+Task 4
+Dent visible on rear left panel of Hyundai vehicle
+Rear left panel of Hyundai shows a dent
+Minor dent present on Hyundai rear left panel
+Hyundai vehicle has a dent on the rear left panel
+Rear left panel dent noticeable on Hyundai vehicle
+Task 5
+Vehicle: Yes
+Make: Hyundai
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FC_15_det01_0693px_vehicle_0p897.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Indoor lighting conditions
+[Camera] High clarity and color accuracy
+[Camera] Front three-quarter view
+[Camera] Partial POV
+[Info] Make Kia
+[Info] Color white single-tone
+[Damage] Scratches on front bumper and fender
+[Damage] Minor misalignment on front bumper
+[Condition] Stains on front bumper
+[Accessories] Five-spoke alloy rim
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in indoor lighting
+[Camera][Info] Front three-quarter view of a white Kia with high clarity
+[Damage][Condition] Scratches and stains on front bumper with minor misalignment
+[Info][Accessories] White Kia with five-spoke alloy rim visible
+Task 3
+Damage = Minor
+Task 4
+Scratches are visible on the front bumper and fender
+The front bumper and fender have noticeable scratches
+There are scratches present on the front bumper and fender
+Minor misalignment is visible on the front bumper
+The front bumper shows slight misalignment and scratches
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: NA
+Task 6
+Visibility = 30
+Task 7
+Time = NA
+Task 8
+Multiple = no
+
+tqvcd/RN_15_det01_0511px_vehicle_0p874.png:
+Task 1
+[Subject] Single vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level POV
+[Info] Kia make
+[Info] Picanto model
+[Info] Hatchback type
+[Info] Modern 2010s–2020s year range
+[Info] Single-tone white color
+[Accessories] Multi-spoke alloy rims
+[Graphics] Two white stickers on rear windshield
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with clear image quality
+[Camera][Info] Rear three-quarter ground-level view of a white Kia Picanto hatchback
+[Info][Accessories] Modern white Kia Picanto with multi-spoke alloy rims and rear windshield stickers
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: Picanto
+Color: White
+Type: Hatchback
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_16_det01_0474px_vehicle_0p652.png:
+Task 1
+[Subject] Single vehicle parked facing right
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Three-quarter front view
+[Camera] Partial POV showing front and side
+[Info] Black color vehicle with single-tone paint
+[Info] SUV type vehicle
+[Info] Modern design likely 2020s model
+[Accessories] Multi-spoke alloy rims
+[Accessories] Side steps visible
+Task 2
+[Subject][Camera] Single vehicle parked facing right in daylight
+[Camera][Info] Three-quarter front view of a black SUV with alloy rims
+[Camera][Accessories] High quality image showing multi-spoke rims and side steps
+[Info][Accessories] Modern black SUV with multi-spoke alloy rims and side steps
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black
+Type: SUV
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_7_det01_0700px_vehicle_0p636.png:
+Task 1
+[Subject] Single vehicle partially visible from rear side
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Rear three-quarter view
+[Camera] Partial POV
+[Info] White color vehicle
+[Info] Sedan type vehicle
+[Info] Modern design 2010s–2020s
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible from rear side in daylight
+[Camera][Info] Rear three-quarter view of a white sedan with alloy rims
+[Info][Accessories] Modern white sedan with multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: White
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FC_16_det03_0263px_vehicle_0p561.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Vehicles facing left
+[Camera] Day lighting conditions
+[Camera] High quality image with clear details
+[Camera] Front and side views visible
+[Camera] Partial point of view
+[Info] Buick make visible on front grille
+[Info] Black color vehicle on right side
+[Info] Silver color vehicle on left side
+[Info] Sedan type vehicles
+[Info] Modern vehicles from 2010s–2020s
+Task 2
+[Subject][Camera] Multiple vehicles partially visible facing left in daylight
+[Camera][Info] High quality image showing front and side views of vehicles
+[Info][Subject] Black sedan and silver sedan vehicles facing left partially visible
+[Info][Camera] Buick make visible on front grille of silver vehicle in daylight
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Buick
+Model: NA
+Color: Black and silver
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/RN_16_det01_0623px_vehicle_0p708.png:
+Task 1
+[Subject] Single vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Nissan make
+[Info] Terra model
+[Info] SUV type vehicle
+[Info] 2010s–2020s year range
+[Info] Single-tone dark purple color
+[Accessories] Roof rack present
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a dark purple Nissan SUV
+[Camera][Accessories] Ground-level view showing roof rack and multi-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Nissan
+Model: Terra
+Color: Dark purple
+Type: SUV
+Task 6
+Visibility = 80
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_1_det02_1021px_vehicle_0p587.png:
+Task 1
+[Subject] Multiple vehicles partially visible
+[Subject] Black car front three-quarter view right side
+[Subject] White truck side view left side
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Partial POV of vehicles
+[Info] Black car with sunroof
+[Info] White truck with cargo container
+[Info] Car type sedan or coupe
+[Info] Truck type cargo truck
+[Info] Car color single-tone black
+[Info] Truck color single-tone white
+Task 2
+[Subject][Camera] Multiple vehicles partially visible in clear daylight
+[Subject][Info] Black car front three-quarter view with sunroof
+[Subject][Info] White cargo truck side view with container
+[Camera][Info] Daylight image shows black sedan or coupe and white truck
+[Info][Camera] Black car and white truck captured in partial POV
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: NA
+Model: NA
+Color: Black (car), White (truck)
+Type: Sedan or coupe (car), Cargo truck (truck)
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = yes
+
+tqvcd/FB_13_det01_0727px_vehicle_0p705.png:
+Task 1
+[Subject] Single vehicle partially visible
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Three-quarter front view
+[Camera] Ground-level POV
+[Info] Kia make
+[Info] SUV type
+[Info] White single-tone color
+[Info] 2010s–2020s model year
+[Damage] Dent on front left fender
+[Damage] Scratches on front left fender and bumper
+[Damage] Misalignment between front bumper and fender
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle partially visible facing right in daylight
+[Camera][Info] Clear three-quarter front view of white Kia SUV
+[Info][Damage] White Kia SUV with dent and scratches on front left fender
+[Damage][Accessories] Front bumper misalignment near multi-spoke alloy rims
+[Camera][Damage] Ground-level POV shows scratches and dent on front left fender
+Task 3
+Damage = Moderate
+Task 4
+Dent on front left fender is clearly visible
+Front left fender shows noticeable dent damage
+Visible dent damage on the front left fender
+Front left fender has a dent and scratches
+Scratches and dent damage present on front left fender
+Task 5
+Vehicle: Yes
+Make: Kia
+Model: NA
+Color: White
+Type: SUV
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RN_17_det01_0574px_vehicle_0p773.png:
+Task 1
+[Subject] Single vehicle visible from rear right side
+[Subject] Vehicle facing away from camera
+[Camera] Day lighting conditions
+[Camera] Clear image quality with accurate colors
+[Camera] Rear three-quarter view
+[Camera] Ground-level point of view
+[Info] Chevrolet make
+[Info] LT trim badge visible
+[Info] Sedan type vehicle
+[Info] Modern 2010s–2020s model
+[Info] Single-tone black color
+[Accessories] White multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing away from camera in daylight
+[Camera][Info] Rear three-quarter view of a black Chevrolet sedan
+[Info][Accessories] Modern Chevrolet LT sedan with white multi-spoke rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: NA
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 60
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/FN_1_det01_1299px_vehicle_0p733.png:
+Task 1
+[Subject] Single vehicle
+[Subject] Vehicle facing right
+[Camera] Day lighting
+[Camera] High quality image
+[Camera] Three-quarter front view
+[Camera] Partial POV
+[Info] Make is Renault Samsung
+[Info] Sedan type vehicle
+[Info] Black single-tone color
+[Info] Modern 2010s–2020s model
+[Accessories] Sunroof present
+[Accessories] Multi-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle facing right in daylight with high quality
+[Camera][Info] Three-quarter front view of a black Renault Samsung sedan
+[Info][Accessories] Modern sedan with sunroof and multi-spoke alloy rims
+Task 3
+Damage = None
+Task 4
+NA
+Task 5
+Vehicle: Yes
+Make: Renault Samsung
+Model: NA
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 70
+Task 7
+Time = day
+Task 8
+Multiple = no
+
+tqvcd/RB_8_det01_0744px_vehicle_0p785.png:
+Task 1
+[Subject] Single vehicle rear view
+[Subject] Vehicle facing right
+[Camera] Day lighting conditions
+[Camera] Clear image quality
+[Camera] Rear view perspective
+[Camera] Partial POV
+[Info] Chevrolet make
+[Info] Cruze LT model
+[Info] Sedan type
+[Info] Black single-tone color
+[Damage] Severe dents on rear bumper
+[Damage] Misalignment of trunk lid
+[Damage] Broken rear left tail light
+[Condition] No mud or stains visible
+[Accessories] Five-spoke alloy rims
+Task 2
+[Subject][Camera] Single vehicle rear view facing right in daylight
+[Camera][Info] Clear rear view of black Chevrolet Cruze LT sedan
+[Info][Damage] Chevrolet Cruze LT sedan with severe dents and misaligned trunk
+[Damage][Accessories] Severe rear bumper dents with broken tail light and alloy rims
+Task 3
+Damage = Severe
+Task 4
+Rear bumper shows visible damage
+Damage present on the rear bumper
+Rear bumper appears damaged
+Visible damage to the rear bumper
+Rear bumper has noticeable damage
+Trunk lid is misaligned due to impact
+Trunk lid misalignment visible from rear view
+Misaligned trunk lid caused by rear collision
+Trunk lid shows clear signs of damage
+Rear left tail light is broken and cracked
+Task 5
+Vehicle: Yes
+Make: Chevrolet
+Model: Cruze LT
+Color: Black
+Type: Sedan
+Task 6
+Visibility = 40
+Task 7
+Time = day
+Task 8
+Multiple = no
+
