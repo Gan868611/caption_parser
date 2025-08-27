@@ -39,10 +39,6 @@ VAL_RATIO = 0.2
 DAMAGE_TRAIN_RATIO = 0.5
 DAMAGE_VAL_RATIO = 0.2
 
-# === COMBINATION OPTIONS ===
-OUTPUT_INDIVIDUAL_CSV = True  # Set to False to skip individual train/val/test files
-OUTPUT_COMBINED_CSV = True    # Set to True to create combined CSV files
-COMBINE_ALL_ITERATIONS = True # Set to True to combine all iterations into single files
 
 # === CSV FORMAT OPTIONS ===
 CSV_IMG_KEY = 'image_path'
@@ -280,23 +276,10 @@ def main():
         status = "✅ KEEP content" if include else "❌ REMOVE content"
         print(f"  {tag}: {status}")
     print(f"\nINCLUDE_ALL_TAGS: {INCLUDE_ALL_TAGS}")
-    print("="*50)
-    
-    print("\n=== OUTPUT CONFIGURATION ===")
-    print(f"Output individual CSV files: {OUTPUT_INDIVIDUAL_CSV}")
-    print(f"Output combined CSV files: {OUTPUT_COMBINED_CSV}")
-    print(f"Combine all iterations: {COMBINE_ALL_ITERATIONS}")
     print("="*50 + "\n")
 
     gemini_and_openai_damage_list = set()
     openai_damage_data = {}  # Store openai damage data for combination
-    
-    # Storage for combining all iterations
-    all_combined_data = {
-        'train': [],
-        'test': [],
-        'val': []
-    }
     
     # Process each iteration
     for iteration_name, input_file_key in ITERATION_CONFIG:
@@ -407,44 +390,23 @@ def main():
         
         os.makedirs(CSV_OUTDIR, exist_ok=True)
         
-        # Prepare split data
+        # Write separate CSV files for each split
         splits = [
             ('train', train_csv),
             ('test', test_csv),
             ('val', val_csv)
         ]
         
-        # Add data to combined storage if combining all iterations
-        if COMBINE_ALL_ITERATIONS:
-            all_combined_data['train'].extend(train_csv)
-            all_combined_data['test'].extend(test_csv)
-            all_combined_data['val'].extend(val_csv)
-        
-        # Write individual CSV files if enabled
-        if OUTPUT_INDIVIDUAL_CSV:
-            for split_name, csv_data in splits:
-                csv_output_path = os.path.join(CSV_OUTDIR, f"{input_base}_{output_suffix}_{split_name}.csv")
-                
-                with open(csv_output_path, 'w', newline='', encoding='utf-8') as f:
-                    fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
-                    writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
-                    writer.writeheader()
-                    writer.writerows(csv_data)
-                
-                print(f"{split_name.upper()} CSV: {csv_output_path} ({len(csv_data)} entries)")
-        
-        # Write combined CSV file for this iteration if enabled
-        if OUTPUT_COMBINED_CSV:
-            combined_csv_data = train_csv + test_csv + val_csv
-            combined_output_path = os.path.join(CSV_OUTDIR, f"{input_base}_{output_suffix}_combined.csv")
+        for split_name, csv_data in splits:
+            csv_output_path = os.path.join(CSV_OUTDIR, f"{input_base}_{output_suffix}_{split_name}.csv")
             
-            with open(combined_output_path, 'w', newline='', encoding='utf-8') as f:
+            with open(csv_output_path, 'w', newline='', encoding='utf-8') as f:
                 fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
                 writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
                 writer.writeheader()
-                writer.writerows(combined_csv_data)
+                writer.writerows(csv_data)
             
-            print(f"COMBINED CSV: {combined_output_path} ({len(combined_csv_data)} entries)")
+            print(f"{split_name.upper()} CSV: {csv_output_path} ({len(csv_data)} entries)")
         
         # Print split statistics
         print(f"\n=== SPLIT STATISTICS FOR {iteration_name.upper()} ===")
@@ -462,46 +424,6 @@ def main():
         
         print(f"\nCompleted iteration: {iteration_name}")
         print(f"{'='*60}\n")
-    
-    # Write combined files across all iterations if enabled
-    if COMBINE_ALL_ITERATIONS and (OUTPUT_INDIVIDUAL_CSV or OUTPUT_COMBINED_CSV):
-        print(f"{'='*60}")
-        print("WRITING COMBINED FILES ACROSS ALL ITERATIONS")
-        print(f"{'='*60}\n")
-        
-        # Write individual split files combining all iterations
-        if OUTPUT_INDIVIDUAL_CSV:
-            for split_name in ['train', 'test', 'val']:
-                all_iterations_path = os.path.join(CSV_OUTDIR, f"all_iterations_{OUTPUT_SUFFIX}_{split_name}.csv")
-                split_data = all_combined_data[split_name]
-                
-                with open(all_iterations_path, 'w', newline='', encoding='utf-8') as f:
-                    fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
-                    writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
-                    writer.writeheader()
-                    writer.writerows(split_data)
-                
-                print(f"ALL ITERATIONS {split_name.upper()}: {all_iterations_path} ({len(split_data)} entries)")
-        
-        # Write single combined file with all iterations and all splits
-        if OUTPUT_COMBINED_CSV:
-            all_data = all_combined_data['train'] + all_combined_data['test'] + all_combined_data['val']
-            all_combined_path = os.path.join(CSV_OUTDIR, f"all_iterations_{OUTPUT_SUFFIX}_all_combined.csv")
-            
-            with open(all_combined_path, 'w', newline='', encoding='utf-8') as f:
-                fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
-                writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
-                writer.writeheader()
-                writer.writerows(all_data)
-            
-            print(f"ALL ITERATIONS COMBINED: {all_combined_path} ({len(all_data)} entries)")
-        
-        # Print final statistics
-        print(f"\n=== FINAL COMBINED STATISTICS ===")
-        print(f"Train: {len(all_combined_data['train'])} caption entries")
-        print(f"Test: {len(all_combined_data['test'])} caption entries") 
-        print(f"Val: {len(all_combined_data['val'])} caption entries")
-        print(f"Total: {len(all_combined_data['train']) + len(all_combined_data['test']) + len(all_combined_data['val'])} caption entries")
 
 if __name__ == "__main__":
     main()
