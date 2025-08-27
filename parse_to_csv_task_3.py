@@ -40,6 +40,10 @@ DAMAGE_TRAIN_RATIO = 0.5
 DAMAGE_VAL_RATIO = 0.2
 
 
+# === CSV OUTPUT OPTIONS ===
+OUTPUT_INDIVIDUAL_CSV = True  # Set to False to skip individual train/test/val files
+APPEND_TO_COMBINED = False    # Set to True to append to combined files instead
+
 # === CSV FORMAT OPTIONS ===
 CSV_IMG_KEY = 'image_path'
 CSV_CAPTION_KEY = 'caption'
@@ -276,6 +280,13 @@ def main():
         status = "✅ KEEP content" if include else "❌ REMOVE content"
         print(f"  {tag}: {status}")
     print(f"\nINCLUDE_ALL_TAGS: {INCLUDE_ALL_TAGS}")
+    print("="*50)
+    
+    print("\n=== CSV OUTPUT CONFIGURATION ===")
+    print(f"Output individual CSV files: {OUTPUT_INDIVIDUAL_CSV}")
+    print(f"Append to combined files: {APPEND_TO_COMBINED}")
+    if APPEND_TO_COMBINED:
+        print(f"Combined files will be: {OUTPUT_SUFFIX}_{{train/test/val}}.csv")
     print("="*50 + "\n")
 
     gemini_and_openai_damage_list = set()
@@ -390,23 +401,45 @@ def main():
         
         os.makedirs(CSV_OUTDIR, exist_ok=True)
         
-        # Write separate CSV files for each split
+        # Prepare split data
         splits = [
             ('train', train_csv),
             ('test', test_csv),
             ('val', val_csv)
         ]
         
-        for split_name, csv_data in splits:
-            csv_output_path = os.path.join(CSV_OUTDIR, f"{input_base}_{output_suffix}_{split_name}.csv")
-            
-            with open(csv_output_path, 'w', newline='', encoding='utf-8') as f:
-                fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
-                writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
-                writer.writeheader()
-                writer.writerows(csv_data)
-            
-            print(f"{split_name.upper()} CSV: {csv_output_path} ({len(csv_data)} entries)")
+        # Write individual CSV files if enabled
+        if OUTPUT_INDIVIDUAL_CSV:
+            for split_name, csv_data in splits:
+                csv_output_path = os.path.join(CSV_OUTDIR, f"{input_base}_{output_suffix}_{split_name}.csv")
+                
+                with open(csv_output_path, 'w', newline='', encoding='utf-8') as f:
+                    fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
+                    writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
+                    writer.writeheader()
+                    writer.writerows(csv_data)
+                
+                print(f"{split_name.upper()} CSV: {csv_output_path} ({len(csv_data)} entries)")
+        
+        # Append to combined CSV files if enabled
+        if APPEND_TO_COMBINED:
+            for split_name, csv_data in splits:
+                combined_output_path = os.path.join(CSV_OUTDIR, f"{OUTPUT_SUFFIX}_{split_name}.csv")
+                
+                # Check if file exists to determine if we need to write header
+                file_exists = os.path.exists(combined_output_path)
+                
+                with open(combined_output_path, 'a', newline='', encoding='utf-8') as f:
+                    fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
+                    writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
+                    
+                    # Write header only if file is new
+                    if not file_exists:
+                        writer.writeheader()
+                    
+                    writer.writerows(csv_data)
+                
+                print(f"APPENDED {split_name.upper()} to: {combined_output_path} (+{len(csv_data)} entries)")
         
         # Print split statistics
         print(f"\n=== SPLIT STATISTICS FOR {iteration_name.upper()} ===")
