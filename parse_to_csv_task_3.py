@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Parse caption data with Task 3 filtering and CSV output with caption combining logic"""
 
-import json
 import re
 import csv
 import os
@@ -16,8 +15,8 @@ INPUT_FILES = {
 ITERATION_CONFIG = [
     ('gemini_non_damage', 'gemini'),
     ('openai_non_damage', 'openai'),
-    ('gemini_and_openai_damage', 'openai'),
-    ('gemini_and_openai_damage', 'gemini')
+    ('gemini_and_openai_damage(openai)', 'openai'),
+    ('gemini_and_openai_damage(gemini)', 'gemini')
 ]
 
 OUTPUT_SUFFIX = "blip_caption_idca_csv"
@@ -25,8 +24,8 @@ OUTPUT_SUFFIX = "blip_caption_idca_csv"
 DAMAGE_FILTERS = {
     'gemini_non_damage': ['None'],
     'openai_non_damage': ['None'],
-    'gemini_and_openai_damage': ['Moderate', 'Severe', 'Minor'],
-    'gemini_and_openai_damage': ['Moderate', 'Severe', 'Minor'],
+    'gemini_and_openai_damage(openai)': ['Moderate', 'Severe', 'Minor'],
+    'gemini_and_openai_damage(gemini)': ['Moderate', 'Severe', 'Minor'],
 }
 
 CSV_OUTDIR = '/home/cynapse/zhenyang/caption_parser/output_csv/'
@@ -275,6 +274,7 @@ def main():
     print("="*50 + "\n")
 
     gemini_and_openai_damage_list = set()
+    openai_damage_data = {}  # Store openai damage data for combination
     
     # Process each iteration
     for iteration_name, input_file_key in ITERATION_CONFIG:
@@ -302,17 +302,68 @@ def main():
             
             overall_pass = all([task5_pass, task6_pass, task7_pass, task8_pass, task3_pass])
 
-            if iteration_name == 'gemini_and_openai_damage' and input_file_key == 'gemini':
+            if iteration_name == 'gemini_and_openai_damage(gemini)' and input_file_key == 'gemini':
                 if entry_dict['image'] not in gemini_and_openai_damage_list:
                     overall_pass = False
             
             if overall_pass:
-                if iteration_name == 'gemini_and_openai_damage' and input_file_key == 'openai':
+                if iteration_name == 'gemini_and_openai_damage(openai)' and input_file_key == 'openai':
                     gemini_and_openai_damage_list.add(entry_dict['image'])
                 filtered_results.append(entry_dict)
         
         print(f"=== SUMMARY FOR {iteration_name.upper()} ===")
         print(f"Total entries: {len(all_results)} | Passing: {len(filtered_results)}")
+        
+        # Handle special case for gemini_and_openai_damage combination
+        if iteration_name == 'gemini_and_openai_damage(openai)' and input_file_key == 'openai':
+            # Store openai damage data for later combination with gemini
+            openai_damage_data = {
+                'filtered_results': filtered_results,
+                'input_base': INPUT_FILES[input_file_key].split('/')[-1].split('.')[0],
+                'iteration_name': iteration_name
+            }
+            print(f"\nStored OpenAI damage data for combination with Gemini data")
+            print(f"Completed iteration: {iteration_name}")
+            print(f"{'='*60}\n")
+            continue
+        
+        elif iteration_name == 'gemini_and_openai_damage(gemini)' and input_file_key == 'gemini':
+            # Combine gemini data with stored openai data
+            if openai_damage_data:
+                print("\n=== COMBINING GEMINI AND OPENAI DAMAGE DATA ===")
+                
+                # Create a mapping of openai images to their data
+                openai_image_map = {item['image']: item for item in openai_damage_data['filtered_results']}
+                
+                # Combine captions for matching images
+                combined_results = []
+                for gemini_item in filtered_results:
+                    image_name = gemini_item['image']
+                    if image_name in openai_image_map:
+                        # Combine captions from both sources
+                        combined_item = gemini_item.copy()
+                        
+                        # Combine Task 1 captions
+                        if 'Task 1' in gemini_item and 'Task 1' in openai_image_map[image_name]:
+                            combined_captions = gemini_item['Task 1'] + openai_image_map[image_name]['Task 1']
+                            combined_item['Task 1'] = combined_captions
+                        
+                        combined_results.append(combined_item)
+                
+                print(f"Combined {len(combined_results)} matching images from Gemini and OpenAI")
+                filtered_results = combined_results
+                
+                # Use combined naming for output
+                input_base = f"combined_{openai_damage_data['input_base']}_gemini"
+                output_suffix = f"{OUTPUT_SUFFIX}_combined_damage"
+            else:
+                print("⚠️ No OpenAI damage data found for combination")
+                input_base = INPUT_FILES[input_file_key].split('/')[-1].split('.')[0]
+                output_suffix = f"{OUTPUT_SUFFIX}_{iteration_name}"
+        else:
+            # Normal processing for other iterations
+            input_base = INPUT_FILES[input_file_key].split('/')[-1].split('.')[0]
+            output_suffix = f"{OUTPUT_SUFFIX}_{iteration_name}"
         
         # Split data into train, test, val
         train_data, test_data, val_data = split_data(filtered_results, TRAIN_RATIO, VAL_RATIO)
@@ -325,9 +376,6 @@ def main():
         os.makedirs(CSV_OUTDIR, exist_ok=True)
         
         # Write separate CSV files for each split
-        input_base = INPUT_FILES[input_file_key].split('/')[-1].split('.')[0]
-        output_suffix = f"{OUTPUT_SUFFIX}_{iteration_name}"
-        
         splits = [
             ('train', train_csv),
             ('test', test_csv),
