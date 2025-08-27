@@ -35,6 +35,10 @@ COMBINE_CAPTIONS = True
 TRAIN_RATIO = 0.7
 VAL_RATIO = 0.2
 
+# Special split ratios for gemini_and_openai_damage iterations
+DAMAGE_TRAIN_RATIO = 0.8
+DAMAGE_VAL_RATIO = 0.1
+
 # === CSV FORMAT OPTIONS ===
 CSV_IMG_KEY = 'image_path'
 CSV_CAPTION_KEY = 'caption'
@@ -365,8 +369,18 @@ def main():
             input_base = INPUT_FILES[input_file_key].split('/')[-1].split('.')[0]
             output_suffix = f"{OUTPUT_SUFFIX}_{iteration_name}"
         
+        # Determine split ratios based on iteration type
+        if 'gemini_and_openai_damage' in iteration_name:
+            current_train_ratio = DAMAGE_TRAIN_RATIO
+            current_val_ratio = DAMAGE_VAL_RATIO
+            print(f"Using damage-specific split ratios: Train={current_train_ratio}, Val={current_val_ratio}")
+        else:
+            current_train_ratio = TRAIN_RATIO
+            current_val_ratio = VAL_RATIO
+            print(f"Using standard split ratios: Train={current_train_ratio}, Val={current_val_ratio}")
+        
         # Split data into train, test, val
-        train_data, test_data, val_data = split_data(filtered_results, TRAIN_RATIO, VAL_RATIO)
+        train_data, test_data, val_data = split_data(filtered_results, current_train_ratio, current_val_ratio)
         
         # Generate CSV data for each split
         train_csv = prepare_csv_data(train_data)
@@ -402,7 +416,10 @@ def main():
         train_pct = len(train_data) / len(filtered_results) * 100 if filtered_results else 0
         test_pct = len(test_data) / len(filtered_results) * 100 if filtered_results else 0
         val_pct = len(val_data) / len(filtered_results) * 100 if filtered_results else 0
-        print(f"Percentages - Train: {train_pct:.1f}%, Test: {test_pct:.1f}%, Val: {val_pct:.1f}%")
+        print(f"Actual percentages - Train: {train_pct:.1f}%, Test: {test_pct:.1f}%, Val: {val_pct:.1f}%")
+        
+        if 'gemini_and_openai_damage' in iteration_name:
+            print(f"Target ratios were - Train: {current_train_ratio*100:.1f}%, Test: {(1-current_train_ratio-current_val_ratio)*100:.1f}%, Val: {current_val_ratio*100:.1f}%")
         
         print(f"\nCompleted iteration: {iteration_name}")
         print(f"{'='*60}\n")
