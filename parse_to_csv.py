@@ -10,17 +10,23 @@ import random
 # === CONFIGURATION ===
 INPUT_FILES = [
     # "/home/cynapse/terence/database/blip/results/tqvcd_filelist_temp0_topk1_topp1_readable.txt",
-    "/home/cynapse/terence/database/blip/results/usroad_filelist_temp0_topk1_topp1_readable.txt",
+    # "/home/cynapse/terence/database/blip/results/usroad_filelist_temp0_topk1_topp1_readable.txt",
     "/home/cynapse/terence/database/blip/results/stanford_filelist_temp0_topk1_topp1_readable.txt",
     "/home/cynapse/terence/database/blip/results/kaggle_filelist_temp0_topk1_topp1_readable.txt"
 ]
 OUTPUT_DIR = '/home/cynapse/zhenyang/caption_parser/output_csv/'
+# OUTPUT_DIR = '/home/cynapse/terence/open_clip/data'
 VISIBILITY_THRESHOLD = 50
 OUTPUT_SUFFIX = 'combined_blip_caption_csv'
-MAX_WORDS = 20
+MAX_WORDS = 30
 COMBINE_CAPTIONS = True
-TRAIN_RATIO = 0.7
-VAL_RATIO = 0.5
+TRAIN_RATIO = 0.8
+VAL_RATIO = 0.2
+
+# === CSV FORMAT OPTIONS ===
+CSV_IMG_KEY = 'image_path'
+CSV_CAPTION_KEY = 'caption'
+CSV_SEPARATOR = ','  # Use ',' for CSV or '\t' for TSV
 
 # === TAG FILTERING ===
 INCLUDE_TAGS = {
@@ -282,8 +288,8 @@ def main():
             # Create multiple CSV rows for each caption
             for caption in captions:
                 csv_data.append({
-                    'image': image_path,
-                    'caption': caption
+                    CSV_IMG_KEY: image_path,
+                    CSV_CAPTION_KEY: caption
                 })
         return csv_data
     
@@ -305,8 +311,9 @@ def main():
         csv_output_path = os.path.join(OUTPUT_DIR, f"{OUTPUT_SUFFIX}_{split_name}.csv")
         
         with open(csv_output_path, 'w', newline='', encoding='utf-8') as f:
-            fieldnames = ['image', 'caption']
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            fieldnames = [CSV_IMG_KEY, CSV_CAPTION_KEY]
+            writer = csv.DictWriter(f, fieldnames=fieldnames, delimiter=CSV_SEPARATOR)
+            writer.writeheader()
             writer.writerows(csv_data)
         
         print(f"{split_name.upper()} CSV: {csv_output_path} ({len(csv_data)} entries)")

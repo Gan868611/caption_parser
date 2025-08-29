@@ -19,7 +19,7 @@ ITERATION_CONFIG = [
     ('gemini_and_openai_damage(gemini)', 'gemini')
 ]
 
-OUTPUT_SUFFIX = "blip_caption_idca_csv"
+OUTPUT_SUFFIX = "combined_blip_caption_csv"
 
 DAMAGE_FILTERS = {
     'gemini_non_damage': ['None'],
@@ -41,8 +41,8 @@ DAMAGE_VAL_RATIO = 0.2
 
 
 # === CSV OUTPUT OPTIONS ===
-OUTPUT_INDIVIDUAL_CSV = True  # Set to False to skip individual train/test/val files
-APPEND_TO_COMBINED = False    # Set to True to append to combined files instead
+OUTPUT_INDIVIDUAL_CSV = False  # Set to False to skip individual train/test/val files
+APPEND_TO_COMBINED = True    # Set to True to append to combined files instead
 
 # === CSV FORMAT OPTIONS ===
 CSV_IMG_KEY = 'image_path'

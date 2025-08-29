@@ -7,23 +7,23 @@ import csv
 import os
 
 # === CONFIGURATION ===
-INPUT_FILE = "/home/cynapse/terence/database/blip/results/stanford_filelist_temp0_topk1_topp1_readable.txt"
-OUTPUT_DIR = '/home/cynapse/terence/database/blip/results/blip_caption/'
-CSV_OUTDIR = '/home/cynapse/terence/database/blip/results/blip_caption/csv_check/'
-# OUTPUT_DIR = '/home/cynapse/zhenyang/caption_parser/output_json/'
-# CSV_OUTDIR = '/home/cynapse/zhenyang/caption_parser/output_csv/'
+INPUT_FILE = "/home/cynapse/terence/database/blip/results/tqvcd_filelist_temp0_topk1_topp1_readable.txt"
+# OUTPUT_DIR = '/home/cynapse/terence/database/blip/results/blip_caption/'
+# CSV_OUTDIR = '/home/cynapse/terence/database/blip/results/blip_caption/csv_check/'
+OUTPUT_DIR = '/home/cynapse/zhenyang/caption_parser/output_json/'
+CSV_OUTDIR = '/home/cynapse/zhenyang/caption_parser/output_csv/'
 VISIBILITY_THRESHOLD = 50
-OUTPUT_SUFFIX = 'blip_caption_(Info_only)'
+OUTPUT_SUFFIX = 'blip_caption_(info_damage_condition_accessories)'
 
 # === TAG FILTERING ===
 INCLUDE_TAGS = {
     '[Subject]': False, 
     '[Camera]': False, 
     '[Info]': True, 
-    '[Accessories]': False,
+    '[Accessories]': True,
     '[Graphics]': False, 
-    '[Damage]': False, 
-    '[Condition]': False, 
+    '[Damage]': True, 
+    '[Condition]': True, 
     '[Others]': False
 }
 INCLUDE_ALL_TAGS = False

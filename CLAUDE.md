@@ -1,0 +1,1 @@
+- commit every time you change or edit anything ! strict

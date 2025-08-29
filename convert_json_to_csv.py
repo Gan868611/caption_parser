@@ -6,6 +6,10 @@ import csv
 import os
 import argparse
 
+# === CONFIGURATION ===
+DEFAULT_INPUT_JSON = '/home/cynapse/zhenyang/caption_parser/val_KagUSstan30_all.json'
+DEFAULT_OUTPUT_DIR = '/home/cynapse/zhenyang/caption_parser/output_csv/'
+
 def convert_json_to_csv(json_file_path, csv_file_path):
     """Convert JSON file to CSV with image_path and caption headers"""
     
@@ -38,8 +42,8 @@ def convert_json_to_csv(json_file_path, csv_file_path):
 
 def main():
     parser = argparse.ArgumentParser(description='Convert JSON file with image-caption pairs to CSV format')
-    parser.add_argument('input_json', help='Path to input JSON file')
-    parser.add_argument('-o', '--output-dir', default='.', help='Output directory (default: current directory)')
+    parser.add_argument('input_json', nargs='?', default=DEFAULT_INPUT_JSON, help=f'Path to input JSON file (default: {DEFAULT_INPUT_JSON})')
+    parser.add_argument('-o', '--output-dir', default=DEFAULT_OUTPUT_DIR, help=f'Output directory (default: {DEFAULT_OUTPUT_DIR})')
     
     args = parser.parse_args()
     
